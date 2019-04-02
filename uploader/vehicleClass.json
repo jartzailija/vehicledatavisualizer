@@ -1,0 +1,47 @@
+[
+    {
+        "code": "M1",
+        "name": "Car",
+        "lang": "en"
+    },
+    {
+        "code": "M1",
+        "name": "Henkilöauto",
+        "lang": "fi"
+    },
+    {
+        "code": "M1",
+        "name": "Personbil",
+        "lang": "se"
+    },
+    {
+        "code": "M1G",
+        "name": "Off-road vehicle",
+        "lang": "en"
+    },
+    {
+        "code": "M1G",
+        "name": "Maastoauto",
+        "lang": "fi"
+    },
+    {
+        "code": "M1G",
+        "name": "Terrängbil",
+        "lang": "se"
+    },
+    {
+        "code": "N1",
+        "name": "Van",
+        "lang": "en"
+    },
+    {
+        "code": "N1",
+        "name": "Pakettiauto",
+        "lang": "fi"
+    },
+    {
+        "code": "N1",
+        "name": "Paketbil",
+        "lang": "se"
+    }
+]

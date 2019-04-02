@@ -1,0 +1,3132 @@
+[
+	{
+		"code": "005",
+		"name": "Alajärvi",
+		"lang": "en"
+	},
+	{
+		"code": "009",
+		"name": "Alavieska",
+		"lang": "en"
+	},
+	{
+		"code": "010",
+		"name": "Alavus",
+		"lang": "en"
+	},
+	{
+		"code": "016",
+		"name": "Asikkala",
+		"lang": "en"
+	},
+	{
+		"code": "018",
+		"name": "Askola",
+		"lang": "en"
+	},
+	{
+		"code": "019",
+		"name": "Aura",
+		"lang": "en"
+	},
+	{
+		"code": "020",
+		"name": "Akaa",
+		"lang": "en"
+	},
+	{
+		"code": "035",
+		"name": "Brändö",
+		"lang": "en"
+	},
+	{
+		"code": "043",
+		"name": "Eckerö",
+		"lang": "en"
+	},
+	{
+		"code": "046",
+		"name": "Enonkoski",
+		"lang": "en"
+	},
+	{
+		"code": "047",
+		"name": "Enontekiö",
+		"lang": "en"
+	},
+	{
+		"code": "049",
+		"name": "Espoo",
+		"lang": "en"
+	},
+	{
+		"code": "050",
+		"name": "Eura",
+		"lang": "en"
+	},
+	{
+		"code": "051",
+		"name": "Eurajoki",
+		"lang": "en"
+	},
+	{
+		"code": "052",
+		"name": "Evijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "060",
+		"name": "Finström",
+		"lang": "en"
+	},
+	{
+		"code": "061",
+		"name": "Forssa",
+		"lang": "en"
+	},
+	{
+		"code": "062",
+		"name": "Föglö",
+		"lang": "en"
+	},
+	{
+		"code": "065",
+		"name": "Geta",
+		"lang": "en"
+	},
+	{
+		"code": "069",
+		"name": "Haapajärvi",
+		"lang": "en"
+	},
+	{
+		"code": "071",
+		"name": "Haapavesi",
+		"lang": "en"
+	},
+	{
+		"code": "072",
+		"name": "Hailuoto",
+		"lang": "en"
+	},
+	{
+		"code": "074",
+		"name": "Halsua",
+		"lang": "en"
+	},
+	{
+		"code": "075",
+		"name": "Hamina",
+		"lang": "en"
+	},
+	{
+		"code": "076",
+		"name": "Hammarland",
+		"lang": "en"
+	},
+	{
+		"code": "077",
+		"name": "Hankasalmi",
+		"lang": "en"
+	},
+	{
+		"code": "078",
+		"name": "Hanko",
+		"lang": "en"
+	},
+	{
+		"code": "079",
+		"name": "Harjavalta",
+		"lang": "en"
+	},
+	{
+		"code": "081",
+		"name": "Hartola",
+		"lang": "en"
+	},
+	{
+		"code": "082",
+		"name": "Hattula",
+		"lang": "en"
+	},
+	{
+		"code": "086",
+		"name": "Hausjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "090",
+		"name": "Heinävesi",
+		"lang": "en"
+	},
+	{
+		"code": "091",
+		"name": "Helsinki",
+		"lang": "en"
+	},
+	{
+		"code": "092",
+		"name": "Vantaa",
+		"lang": "en"
+	},
+	{
+		"code": "097",
+		"name": "Hirvensalmi",
+		"lang": "en"
+	},
+	{
+		"code": "098",
+		"name": "Hollola",
+		"lang": "en"
+	},
+	{
+		"code": "099",
+		"name": "Honkajoki",
+		"lang": "en"
+	},
+	{
+		"code": "102",
+		"name": "Huittinen",
+		"lang": "en"
+	},
+	{
+		"code": "103",
+		"name": "Humppila",
+		"lang": "en"
+	},
+	{
+		"code": "105",
+		"name": "Hyrynsalmi",
+		"lang": "en"
+	},
+	{
+		"code": "106",
+		"name": "Hyvinkää",
+		"lang": "en"
+	},
+	{
+		"code": "108",
+		"name": "Hämeenkyrö",
+		"lang": "en"
+	},
+	{
+		"code": "109",
+		"name": "Hämeenlinna",
+		"lang": "en"
+	},
+	{
+		"code": "111",
+		"name": "Heinola",
+		"lang": "en"
+	},
+	{
+		"code": "139",
+		"name": "Ii",
+		"lang": "en"
+	},
+	{
+		"code": "140",
+		"name": "Iisalmi",
+		"lang": "en"
+	},
+	{
+		"code": "142",
+		"name": "Iitti",
+		"lang": "en"
+	},
+	{
+		"code": "143",
+		"name": "Ikaalinen",
+		"lang": "en"
+	},
+	{
+		"code": "145",
+		"name": "Ilmajoki",
+		"lang": "en"
+	},
+	{
+		"code": "146",
+		"name": "Ilomantsi",
+		"lang": "en"
+	},
+	{
+		"code": "148",
+		"name": "Inari",
+		"lang": "en"
+	},
+	{
+		"code": "149",
+		"name": "Inkoo",
+		"lang": "en"
+	},
+	{
+		"code": "151",
+		"name": "Isojoki",
+		"lang": "en"
+	},
+	{
+		"code": "152",
+		"name": "Isokyrö",
+		"lang": "en"
+	},
+	{
+		"code": "153",
+		"name": "Imatra",
+		"lang": "en"
+	},
+	{
+		"code": "165",
+		"name": "Janakkala",
+		"lang": "en"
+	},
+	{
+		"code": "167",
+		"name": "Joensuu",
+		"lang": "en"
+	},
+	{
+		"code": "169",
+		"name": "Jokioinen",
+		"lang": "en"
+	},
+	{
+		"code": "170",
+		"name": "Jomala",
+		"lang": "en"
+	},
+	{
+		"code": "171",
+		"name": "Joroinen",
+		"lang": "en"
+	},
+	{
+		"code": "172",
+		"name": "Joutsa",
+		"lang": "en"
+	},
+	{
+		"code": "176",
+		"name": "Juuka",
+		"lang": "en"
+	},
+	{
+		"code": "177",
+		"name": "Juupajoki",
+		"lang": "en"
+	},
+	{
+		"code": "178",
+		"name": "Juva",
+		"lang": "en"
+	},
+	{
+		"code": "179",
+		"name": "Jyväskylä",
+		"lang": "en"
+	},
+	{
+		"code": "181",
+		"name": "Jämijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "182",
+		"name": "Jämsä",
+		"lang": "en"
+	},
+	{
+		"code": "186",
+		"name": "Järvenpää",
+		"lang": "en"
+	},
+	{
+		"code": "202",
+		"name": "Kaarina",
+		"lang": "en"
+	},
+	{
+		"code": "204",
+		"name": "Kaavi",
+		"lang": "en"
+	},
+	{
+		"code": "205",
+		"name": "Kajaani",
+		"lang": "en"
+	},
+	{
+		"code": "208",
+		"name": "Kalajoki",
+		"lang": "en"
+	},
+	{
+		"code": "211",
+		"name": "Kangasala",
+		"lang": "en"
+	},
+	{
+		"code": "213",
+		"name": "Kangasniemi",
+		"lang": "en"
+	},
+	{
+		"code": "214",
+		"name": "Kankaanpää",
+		"lang": "en"
+	},
+	{
+		"code": "216",
+		"name": "Kannonkoski",
+		"lang": "en"
+	},
+	{
+		"code": "217",
+		"name": "Kannus",
+		"lang": "en"
+	},
+	{
+		"code": "218",
+		"name": "Karijoki",
+		"lang": "en"
+	},
+	{
+		"code": "224",
+		"name": "Karkkila",
+		"lang": "en"
+	},
+	{
+		"code": "226",
+		"name": "Karstula",
+		"lang": "en"
+	},
+	{
+		"code": "230",
+		"name": "Karvia",
+		"lang": "en"
+	},
+	{
+		"code": "231",
+		"name": "Kaskinen",
+		"lang": "en"
+	},
+	{
+		"code": "232",
+		"name": "Kauhajoki",
+		"lang": "en"
+	},
+	{
+		"code": "233",
+		"name": "Kauhava",
+		"lang": "en"
+	},
+	{
+		"code": "235",
+		"name": "Kauniainen",
+		"lang": "en"
+	},
+	{
+		"code": "236",
+		"name": "Kaustinen",
+		"lang": "en"
+	},
+	{
+		"code": "239",
+		"name": "Keitele",
+		"lang": "en"
+	},
+	{
+		"code": "240",
+		"name": "Kemi",
+		"lang": "en"
+	},
+	{
+		"code": "241",
+		"name": "Keminmaa",
+		"lang": "en"
+	},
+	{
+		"code": "244",
+		"name": "Kempele",
+		"lang": "en"
+	},
+	{
+		"code": "245",
+		"name": "Kerava",
+		"lang": "en"
+	},
+	{
+		"code": "249",
+		"name": "Keuruu",
+		"lang": "en"
+	},
+	{
+		"code": "250",
+		"name": "Kihniö",
+		"lang": "en"
+	},
+	{
+		"code": "256",
+		"name": "Kinnula",
+		"lang": "en"
+	},
+	{
+		"code": "257",
+		"name": "Kirkkonummi",
+		"lang": "en"
+	},
+	{
+		"code": "260",
+		"name": "Kitee",
+		"lang": "en"
+	},
+	{
+		"code": "261",
+		"name": "Kittilä",
+		"lang": "en"
+	},
+	{
+		"code": "263",
+		"name": "Kiuruvesi",
+		"lang": "en"
+	},
+	{
+		"code": "265",
+		"name": "Kivijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "271",
+		"name": "Kokemäki",
+		"lang": "en"
+	},
+	{
+		"code": "272",
+		"name": "Kokkola",
+		"lang": "en"
+	},
+	{
+		"code": "273",
+		"name": "Kolari",
+		"lang": "en"
+	},
+	{
+		"code": "275",
+		"name": "Konnevesi",
+		"lang": "en"
+	},
+	{
+		"code": "276",
+		"name": "Kontiolahti",
+		"lang": "en"
+	},
+	{
+		"code": "280",
+		"name": "Korsnäs",
+		"lang": "en"
+	},
+	{
+		"code": "284",
+		"name": "Koski Tl",
+		"lang": "en"
+	},
+	{
+		"code": "285",
+		"name": "Kotka",
+		"lang": "en"
+	},
+	{
+		"code": "286",
+		"name": "Kouvola",
+		"lang": "en"
+	},
+	{
+		"code": "287",
+		"name": "Kristiinankaupunki",
+		"lang": "en"
+	},
+	{
+		"code": "288",
+		"name": "Kruunupyy",
+		"lang": "en"
+	},
+	{
+		"code": "290",
+		"name": "Kuhmo",
+		"lang": "en"
+	},
+	{
+		"code": "291",
+		"name": "Kuhmoinen",
+		"lang": "en"
+	},
+	{
+		"code": "295",
+		"name": "Kumlinge",
+		"lang": "en"
+	},
+	{
+		"code": "297",
+		"name": "Kuopio",
+		"lang": "en"
+	},
+	{
+		"code": "300",
+		"name": "Kuortane",
+		"lang": "en"
+	},
+	{
+		"code": "301",
+		"name": "Kurikka",
+		"lang": "en"
+	},
+	{
+		"code": "304",
+		"name": "Kustavi",
+		"lang": "en"
+	},
+	{
+		"code": "305",
+		"name": "Kuusamo",
+		"lang": "en"
+	},
+	{
+		"code": "309",
+		"name": "Outokumpu",
+		"lang": "en"
+	},
+	{
+		"code": "312",
+		"name": "Kyyjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "316",
+		"name": "Kärkölä",
+		"lang": "en"
+	},
+	{
+		"code": "317",
+		"name": "Kärsämäki",
+		"lang": "en"
+	},
+	{
+		"code": "318",
+		"name": "Kökar",
+		"lang": "en"
+	},
+	{
+		"code": "320",
+		"name": "Kemijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "322",
+		"name": "Kemiönsaari",
+		"lang": "en"
+	},
+	{
+		"code": "398",
+		"name": "Lahti",
+		"lang": "en"
+	},
+	{
+		"code": "399",
+		"name": "Laihia",
+		"lang": "en"
+	},
+	{
+		"code": "400",
+		"name": "Laitila",
+		"lang": "en"
+	},
+	{
+		"code": "402",
+		"name": "Lapinlahti",
+		"lang": "en"
+	},
+	{
+		"code": "403",
+		"name": "Lappajärvi",
+		"lang": "en"
+	},
+	{
+		"code": "405",
+		"name": "Lappeenranta",
+		"lang": "en"
+	},
+	{
+		"code": "407",
+		"name": "Lapinjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "408",
+		"name": "Lapua",
+		"lang": "en"
+	},
+	{
+		"code": "410",
+		"name": "Laukaa",
+		"lang": "en"
+	},
+	{
+		"code": "416",
+		"name": "Lemi",
+		"lang": "en"
+	},
+	{
+		"code": "417",
+		"name": "Lemland",
+		"lang": "en"
+	},
+	{
+		"code": "418",
+		"name": "Lempäälä",
+		"lang": "en"
+	},
+	{
+		"code": "420",
+		"name": "Leppävirta",
+		"lang": "en"
+	},
+	{
+		"code": "421",
+		"name": "Lestijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "422",
+		"name": "Lieksa",
+		"lang": "en"
+	},
+	{
+		"code": "423",
+		"name": "Lieto",
+		"lang": "en"
+	},
+	{
+		"code": "425",
+		"name": "Liminka",
+		"lang": "en"
+	},
+	{
+		"code": "426",
+		"name": "Liperi",
+		"lang": "en"
+	},
+	{
+		"code": "430",
+		"name": "Loimaa",
+		"lang": "en"
+	},
+	{
+		"code": "433",
+		"name": "Loppi",
+		"lang": "en"
+	},
+	{
+		"code": "434",
+		"name": "Loviisa",
+		"lang": "en"
+	},
+	{
+		"code": "435",
+		"name": "Luhanka",
+		"lang": "en"
+	},
+	{
+		"code": "436",
+		"name": "Lumijoki",
+		"lang": "en"
+	},
+	{
+		"code": "438",
+		"name": "Lumparland",
+		"lang": "en"
+	},
+	{
+		"code": "440",
+		"name": "Luoto",
+		"lang": "en"
+	},
+	{
+		"code": "441",
+		"name": "Luumäki",
+		"lang": "en"
+	},
+	{
+		"code": "444",
+		"name": "Lohja",
+		"lang": "en"
+	},
+	{
+		"code": "445",
+		"name": "Parainen",
+		"lang": "en"
+	},
+	{
+		"code": "475",
+		"name": "Maalahti",
+		"lang": "en"
+	},
+	{
+		"code": "478",
+		"name": "Maarianhamina",
+		"lang": "en"
+	},
+	{
+		"code": "480",
+		"name": "Marttila",
+		"lang": "en"
+	},
+	{
+		"code": "481",
+		"name": "Masku",
+		"lang": "en"
+	},
+	{
+		"code": "483",
+		"name": "Merijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "484",
+		"name": "Merikarvia",
+		"lang": "en"
+	},
+	{
+		"code": "489",
+		"name": "Miehikkälä",
+		"lang": "en"
+	},
+	{
+		"code": "491",
+		"name": "Mikkeli",
+		"lang": "en"
+	},
+	{
+		"code": "494",
+		"name": "Muhos",
+		"lang": "en"
+	},
+	{
+		"code": "495",
+		"name": "Multia",
+		"lang": "en"
+	},
+	{
+		"code": "498",
+		"name": "Muonio",
+		"lang": "en"
+	},
+	{
+		"code": "499",
+		"name": "Mustasaari",
+		"lang": "en"
+	},
+	{
+		"code": "500",
+		"name": "Muurame",
+		"lang": "en"
+	},
+	{
+		"code": "503",
+		"name": "Mynämäki",
+		"lang": "en"
+	},
+	{
+		"code": "504",
+		"name": "Myrskylä",
+		"lang": "en"
+	},
+	{
+		"code": "505",
+		"name": "Mäntsälä",
+		"lang": "en"
+	},
+	{
+		"code": "507",
+		"name": "Mäntyharju",
+		"lang": "en"
+	},
+	{
+		"code": "508",
+		"name": "Mänttä-Vilppula",
+		"lang": "en"
+	},
+	{
+		"code": "529",
+		"name": "Naantali",
+		"lang": "en"
+	},
+	{
+		"code": "531",
+		"name": "Nakkila",
+		"lang": "en"
+	},
+	{
+		"code": "535",
+		"name": "Nivala",
+		"lang": "en"
+	},
+	{
+		"code": "536",
+		"name": "Nokia",
+		"lang": "en"
+	},
+	{
+		"code": "538",
+		"name": "Nousiainen",
+		"lang": "en"
+	},
+	{
+		"code": "541",
+		"name": "Nurmes",
+		"lang": "en"
+	},
+	{
+		"code": "543",
+		"name": "Nurmijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "545",
+		"name": "Närpiö",
+		"lang": "en"
+	},
+	{
+		"code": "560",
+		"name": "Orimattila",
+		"lang": "en"
+	},
+	{
+		"code": "561",
+		"name": "Oripää",
+		"lang": "en"
+	},
+	{
+		"code": "562",
+		"name": "Orivesi",
+		"lang": "en"
+	},
+	{
+		"code": "563",
+		"name": "Oulainen",
+		"lang": "en"
+	},
+	{
+		"code": "564",
+		"name": "Oulu",
+		"lang": "en"
+	},
+	{
+		"code": "576",
+		"name": "Padasjoki",
+		"lang": "en"
+	},
+	{
+		"code": "577",
+		"name": "Paimio",
+		"lang": "en"
+	},
+	{
+		"code": "578",
+		"name": "Paltamo",
+		"lang": "en"
+	},
+	{
+		"code": "580",
+		"name": "Parikkala",
+		"lang": "en"
+	},
+	{
+		"code": "581",
+		"name": "Parkano",
+		"lang": "en"
+	},
+	{
+		"code": "583",
+		"name": "Pelkosenniemi",
+		"lang": "en"
+	},
+	{
+		"code": "584",
+		"name": "Perho",
+		"lang": "en"
+	},
+	{
+		"code": "588",
+		"name": "Pertunmaa",
+		"lang": "en"
+	},
+	{
+		"code": "592",
+		"name": "Petäjävesi",
+		"lang": "en"
+	},
+	{
+		"code": "593",
+		"name": "Pieksämäki",
+		"lang": "en"
+	},
+	{
+		"code": "595",
+		"name": "Pielavesi",
+		"lang": "en"
+	},
+	{
+		"code": "598",
+		"name": "Pietarsaari",
+		"lang": "en"
+	},
+	{
+		"code": "599",
+		"name": "Pedersören kunta",
+		"lang": "en"
+	},
+	{
+		"code": "601",
+		"name": "Pihtipudas",
+		"lang": "en"
+	},
+	{
+		"code": "604",
+		"name": "Pirkkala",
+		"lang": "en"
+	},
+	{
+		"code": "607",
+		"name": "Polvijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "608",
+		"name": "Pomarkku",
+		"lang": "en"
+	},
+	{
+		"code": "609",
+		"name": "Pori",
+		"lang": "en"
+	},
+	{
+		"code": "611",
+		"name": "Pornainen",
+		"lang": "en"
+	},
+	{
+		"code": "614",
+		"name": "Posio",
+		"lang": "en"
+	},
+	{
+		"code": "615",
+		"name": "Pudasjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "616",
+		"name": "Pukkila",
+		"lang": "en"
+	},
+	{
+		"code": "619",
+		"name": "Punkalaidun",
+		"lang": "en"
+	},
+	{
+		"code": "620",
+		"name": "Puolanka",
+		"lang": "en"
+	},
+	{
+		"code": "623",
+		"name": "Puumala",
+		"lang": "en"
+	},
+	{
+		"code": "624",
+		"name": "Pyhtää",
+		"lang": "en"
+	},
+	{
+		"code": "625",
+		"name": "Pyhäjoki",
+		"lang": "en"
+	},
+	{
+		"code": "626",
+		"name": "Pyhäjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "630",
+		"name": "Pyhäntä",
+		"lang": "en"
+	},
+	{
+		"code": "631",
+		"name": "Pyhäranta",
+		"lang": "en"
+	},
+	{
+		"code": "635",
+		"name": "Pälkäne",
+		"lang": "en"
+	},
+	{
+		"code": "636",
+		"name": "Pöytyä",
+		"lang": "en"
+	},
+	{
+		"code": "638",
+		"name": "Porvoo",
+		"lang": "en"
+	},
+	{
+		"code": "678",
+		"name": "Raahe",
+		"lang": "en"
+	},
+	{
+		"code": "680",
+		"name": "Raisio",
+		"lang": "en"
+	},
+	{
+		"code": "681",
+		"name": "Rantasalmi",
+		"lang": "en"
+	},
+	{
+		"code": "683",
+		"name": "Ranua",
+		"lang": "en"
+	},
+	{
+		"code": "684",
+		"name": "Rauma",
+		"lang": "en"
+	},
+	{
+		"code": "686",
+		"name": "Rautalampi",
+		"lang": "en"
+	},
+	{
+		"code": "687",
+		"name": "Rautavaara",
+		"lang": "en"
+	},
+	{
+		"code": "689",
+		"name": "Rautjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "691",
+		"name": "Reisjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "694",
+		"name": "Riihimäki",
+		"lang": "en"
+	},
+	{
+		"code": "697",
+		"name": "Ristijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "698",
+		"name": "Rovaniemi",
+		"lang": "en"
+	},
+	{
+		"code": "700",
+		"name": "Ruokolahti",
+		"lang": "en"
+	},
+	{
+		"code": "702",
+		"name": "Ruovesi",
+		"lang": "en"
+	},
+	{
+		"code": "704",
+		"name": "Rusko",
+		"lang": "en"
+	},
+	{
+		"code": "707",
+		"name": "Rääkkylä",
+		"lang": "en"
+	},
+	{
+		"code": "710",
+		"name": "Raasepori",
+		"lang": "en"
+	},
+	{
+		"code": "729",
+		"name": "Saarijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "732",
+		"name": "Salla",
+		"lang": "en"
+	},
+	{
+		"code": "734",
+		"name": "Salo",
+		"lang": "en"
+	},
+	{
+		"code": "736",
+		"name": "Saltvik",
+		"lang": "en"
+	},
+	{
+		"code": "738",
+		"name": "Sauvo",
+		"lang": "en"
+	},
+	{
+		"code": "739",
+		"name": "Savitaipale",
+		"lang": "en"
+	},
+	{
+		"code": "740",
+		"name": "Savonlinna",
+		"lang": "en"
+	},
+	{
+		"code": "742",
+		"name": "Savukoski",
+		"lang": "en"
+	},
+	{
+		"code": "743",
+		"name": "Seinäjoki",
+		"lang": "en"
+	},
+	{
+		"code": "746",
+		"name": "Sievi",
+		"lang": "en"
+	},
+	{
+		"code": "747",
+		"name": "Siikainen",
+		"lang": "en"
+	},
+	{
+		"code": "748",
+		"name": "Siikajoki",
+		"lang": "en"
+	},
+	{
+		"code": "749",
+		"name": "Siilinjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "751",
+		"name": "Simo",
+		"lang": "en"
+	},
+	{
+		"code": "753",
+		"name": "Sipoo",
+		"lang": "en"
+	},
+	{
+		"code": "755",
+		"name": "Siuntio",
+		"lang": "en"
+	},
+	{
+		"code": "758",
+		"name": "Sodankylä",
+		"lang": "en"
+	},
+	{
+		"code": "759",
+		"name": "Soini",
+		"lang": "en"
+	},
+	{
+		"code": "761",
+		"name": "Somero",
+		"lang": "en"
+	},
+	{
+		"code": "762",
+		"name": "Sonkajärvi",
+		"lang": "en"
+	},
+	{
+		"code": "765",
+		"name": "Sotkamo",
+		"lang": "en"
+	},
+	{
+		"code": "766",
+		"name": "Sottunga",
+		"lang": "en"
+	},
+	{
+		"code": "768",
+		"name": "Sulkava",
+		"lang": "en"
+	},
+	{
+		"code": "771",
+		"name": "Sund",
+		"lang": "en"
+	},
+	{
+		"code": "777",
+		"name": "Suomussalmi",
+		"lang": "en"
+	},
+	{
+		"code": "778",
+		"name": "Suonenjoki",
+		"lang": "en"
+	},
+	{
+		"code": "781",
+		"name": "Sysmä",
+		"lang": "en"
+	},
+	{
+		"code": "783",
+		"name": "Säkylä",
+		"lang": "en"
+	},
+	{
+		"code": "785",
+		"name": "Vaala",
+		"lang": "en"
+	},
+	{
+		"code": "790",
+		"name": "Sastamala",
+		"lang": "en"
+	},
+	{
+		"code": "791",
+		"name": "Siikalatva",
+		"lang": "en"
+	},
+	{
+		"code": "831",
+		"name": "Taipalsaari",
+		"lang": "en"
+	},
+	{
+		"code": "832",
+		"name": "Taivalkoski",
+		"lang": "en"
+	},
+	{
+		"code": "833",
+		"name": "Taivassalo",
+		"lang": "en"
+	},
+	{
+		"code": "834",
+		"name": "Tammela",
+		"lang": "en"
+	},
+	{
+		"code": "837",
+		"name": "Tampere",
+		"lang": "en"
+	},
+	{
+		"code": "844",
+		"name": "Tervo",
+		"lang": "en"
+	},
+	{
+		"code": "845",
+		"name": "Tervola",
+		"lang": "en"
+	},
+	{
+		"code": "846",
+		"name": "Teuva",
+		"lang": "en"
+	},
+	{
+		"code": "848",
+		"name": "Tohmajärvi",
+		"lang": "en"
+	},
+	{
+		"code": "849",
+		"name": "Toholampi",
+		"lang": "en"
+	},
+	{
+		"code": "850",
+		"name": "Toivakka",
+		"lang": "en"
+	},
+	{
+		"code": "851",
+		"name": "Tornio",
+		"lang": "en"
+	},
+	{
+		"code": "853",
+		"name": "Turku",
+		"lang": "en"
+	},
+	{
+		"code": "854",
+		"name": "Pello",
+		"lang": "en"
+	},
+	{
+		"code": "857",
+		"name": "Tuusniemi",
+		"lang": "en"
+	},
+	{
+		"code": "858",
+		"name": "Tuusula",
+		"lang": "en"
+	},
+	{
+		"code": "859",
+		"name": "Tyrnävä",
+		"lang": "en"
+	},
+	{
+		"code": "886",
+		"name": "Ulvila",
+		"lang": "en"
+	},
+	{
+		"code": "887",
+		"name": "Urjala",
+		"lang": "en"
+	},
+	{
+		"code": "889",
+		"name": "Utajärvi",
+		"lang": "en"
+	},
+	{
+		"code": "890",
+		"name": "Utsjoki",
+		"lang": "en"
+	},
+	{
+		"code": "892",
+		"name": "Uurainen",
+		"lang": "en"
+	},
+	{
+		"code": "893",
+		"name": "Uusikaarlepyy",
+		"lang": "en"
+	},
+	{
+		"code": "895",
+		"name": "Uusikaupunki",
+		"lang": "en"
+	},
+	{
+		"code": "905",
+		"name": "Vaasa",
+		"lang": "en"
+	},
+	{
+		"code": "908",
+		"name": "Valkeakoski",
+		"lang": "en"
+	},
+	{
+		"code": "911",
+		"name": "Valtimo",
+		"lang": "en"
+	},
+	{
+		"code": "915",
+		"name": "Varkaus",
+		"lang": "en"
+	},
+	{
+		"code": "918",
+		"name": "Vehmaa",
+		"lang": "en"
+	},
+	{
+		"code": "921",
+		"name": "Vesanto",
+		"lang": "en"
+	},
+	{
+		"code": "922",
+		"name": "Vesilahti",
+		"lang": "en"
+	},
+	{
+		"code": "924",
+		"name": "Veteli",
+		"lang": "en"
+	},
+	{
+		"code": "925",
+		"name": "Vieremä",
+		"lang": "en"
+	},
+	{
+		"code": "927",
+		"name": "Vihti",
+		"lang": "en"
+	},
+	{
+		"code": "931",
+		"name": "Viitasaari",
+		"lang": "en"
+	},
+	{
+		"code": "934",
+		"name": "Vimpeli",
+		"lang": "en"
+	},
+	{
+		"code": "935",
+		"name": "Virolahti",
+		"lang": "en"
+	},
+	{
+		"code": "936",
+		"name": "Virrat",
+		"lang": "en"
+	},
+	{
+		"code": "941",
+		"name": "Vårdö",
+		"lang": "en"
+	},
+	{
+		"code": "946",
+		"name": "Vöyri",
+		"lang": "en"
+	},
+	{
+		"code": "976",
+		"name": "Ylitornio",
+		"lang": "en"
+	},
+	{
+		"code": "977",
+		"name": "Ylivieska",
+		"lang": "en"
+	},
+	{
+		"code": "980",
+		"name": "Ylöjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "981",
+		"name": "Ypäjä",
+		"lang": "en"
+	},
+	{
+		"code": "989",
+		"name": "Ähtäri",
+		"lang": "en"
+	},
+	{
+		"code": "992",
+		"name": "Äänekoski",
+		"lang": "en"
+	},
+	{
+		"code": "001",
+		"name": "Ahlainen",
+		"lang": "en"
+	},
+	{
+		"code": "002",
+		"name": "Aitolahti",
+		"lang": "en"
+	},
+	{
+		"code": "003",
+		"name": "Akaa",
+		"lang": "en"
+	},
+	{
+		"code": "004",
+		"name": "Alahärmä",
+		"lang": "en"
+	},
+	{
+		"code": "006",
+		"name": "Alastaro",
+		"lang": "en"
+	},
+	{
+		"code": "007",
+		"name": "Alatornio",
+		"lang": "en"
+	},
+	{
+		"code": "008",
+		"name": "Alaveteli",
+		"lang": "en"
+	},
+	{
+		"code": "011",
+		"name": "Angelniemi",
+		"lang": "en"
+	},
+	{
+		"code": "012",
+		"name": "Anjala",
+		"lang": "en"
+	},
+	{
+		"code": "013",
+		"name": "Antrea",
+		"lang": "en"
+	},
+	{
+		"code": "014",
+		"name": "Anttola",
+		"lang": "en"
+	},
+	{
+		"code": "015",
+		"name": "Artjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "017",
+		"name": "Askainen",
+		"lang": "en"
+	},
+	{
+		"code": "032",
+		"name": "Bergö",
+		"lang": "en"
+	},
+	{
+		"code": "033",
+		"name": "Björköby",
+		"lang": "en"
+	},
+	{
+		"code": "034",
+		"name": "Bromarv",
+		"lang": "en"
+	},
+	{
+		"code": "039",
+		"name": "Degerby",
+		"lang": "en"
+	},
+	{
+		"code": "040",
+		"name": "Dragsfjärd",
+		"lang": "en"
+	},
+	{
+		"code": "044",
+		"name": "Elimäki",
+		"lang": "en"
+	},
+	{
+		"code": "045",
+		"name": "Eno",
+		"lang": "en"
+	},
+	{
+		"code": "048",
+		"name": "Eräjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "068",
+		"name": "Haaga",
+		"lang": "en"
+	},
+	{
+		"code": "070",
+		"name": "Haapasaari",
+		"lang": "en"
+	},
+	{
+		"code": "073",
+		"name": "Halikko",
+		"lang": "en"
+	},
+	{
+		"code": "080",
+		"name": "Harlu",
+		"lang": "en"
+	},
+	{
+		"code": "083",
+		"name": "Hauho",
+		"lang": "en"
+	},
+	{
+		"code": "084",
+		"name": "Haukipudas",
+		"lang": "en"
+	},
+	{
+		"code": "085",
+		"name": "Haukivuori",
+		"lang": "en"
+	},
+	{
+		"code": "087",
+		"name": "Heinjoki",
+		"lang": "en"
+	},
+	{
+		"code": "088",
+		"name": "Heinola",
+		"lang": "en"
+	},
+	{
+		"code": "089",
+		"name": "Heinolan mlk",
+		"lang": "en"
+	},
+	{
+		"code": "093",
+		"name": "Hiitola",
+		"lang": "en"
+	},
+	{
+		"code": "094",
+		"name": "Hiittinen",
+		"lang": "en"
+	},
+	{
+		"code": "095",
+		"name": "Himanka",
+		"lang": "en"
+	},
+	{
+		"code": "096",
+		"name": "Hinnerjoki",
+		"lang": "en"
+	},
+	{
+		"code": "100",
+		"name": "Honkilahti",
+		"lang": "en"
+	},
+	{
+		"code": "101",
+		"name": "Houtskari",
+		"lang": "en"
+	},
+	{
+		"code": "104",
+		"name": "Huopalahti",
+		"lang": "en"
+	},
+	{
+		"code": "107",
+		"name": "Hyvinkään mlk",
+		"lang": "en"
+	},
+	{
+		"code": "110",
+		"name": "Hämeenlinnan mlk",
+		"lang": "en"
+	},
+	{
+		"code": "141",
+		"name": "Iisalmen mlk",
+		"lang": "en"
+	},
+	{
+		"code": "144",
+		"name": "Ikaalinen",
+		"lang": "en"
+	},
+	{
+		"code": "147",
+		"name": "Impilahti",
+		"lang": "en"
+	},
+	{
+		"code": "150",
+		"name": "Iniö",
+		"lang": "en"
+	},
+	{
+		"code": "162",
+		"name": "Jaakkima",
+		"lang": "en"
+	},
+	{
+		"code": "163",
+		"name": "Jaala",
+		"lang": "en"
+	},
+	{
+		"code": "164",
+		"name": "Jalasjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "166",
+		"name": "Jepua",
+		"lang": "en"
+	},
+	{
+		"code": "168",
+		"name": "Johannes",
+		"lang": "en"
+	},
+	{
+		"code": "173",
+		"name": "Joutseno",
+		"lang": "en"
+	},
+	{
+		"code": "174",
+		"name": "Juankoski",
+		"lang": "en"
+	},
+	{
+		"code": "175",
+		"name": "Jurva",
+		"lang": "en"
+	},
+	{
+		"code": "180",
+		"name": "Jyväskylän mlk",
+		"lang": "en"
+	},
+	{
+		"code": "183",
+		"name": "Jämsänkoski",
+		"lang": "en"
+	},
+	{
+		"code": "184",
+		"name": "Jäppilä",
+		"lang": "en"
+	},
+	{
+		"code": "185",
+		"name": "Jääski",
+		"lang": "en"
+	},
+	{
+		"code": "201",
+		"name": "Karhula",
+		"lang": "en"
+	},
+	{
+		"code": "203",
+		"name": "Kaarlela",
+		"lang": "en"
+	},
+	{
+		"code": "206",
+		"name": "Kajaanin mlk",
+		"lang": "en"
+	},
+	{
+		"code": "207",
+		"name": "Kakskerta",
+		"lang": "en"
+	},
+	{
+		"code": "209",
+		"name": "Kalanti",
+		"lang": "en"
+	},
+	{
+		"code": "210",
+		"name": "Kalvola",
+		"lang": "en"
+	},
+	{
+		"code": "212",
+		"name": "Kangaslampi",
+		"lang": "en"
+	},
+	{
+		"code": "215",
+		"name": "Kanneljärvi",
+		"lang": "en"
+	},
+	{
+		"code": "219",
+		"name": "Karinainen",
+		"lang": "en"
+	},
+	{
+		"code": "220",
+		"name": "Karjaa",
+		"lang": "en"
+	},
+	{
+		"code": "221",
+		"name": "Karjaan mlk",
+		"lang": "en"
+	},
+	{
+		"code": "222",
+		"name": "Karjala",
+		"lang": "en"
+	},
+	{
+		"code": "223",
+		"name": "Karjalohja",
+		"lang": "en"
+	},
+	{
+		"code": "225",
+		"name": "Karkku",
+		"lang": "en"
+	},
+	{
+		"code": "227",
+		"name": "Karttula",
+		"lang": "en"
+	},
+	{
+		"code": "228",
+		"name": "Karuna",
+		"lang": "en"
+	},
+	{
+		"code": "229",
+		"name": "Karunki",
+		"lang": "en"
+	},
+	{
+		"code": "234",
+		"name": "Kaukola",
+		"lang": "en"
+	},
+	{
+		"code": "237",
+		"name": "Kauvatsa",
+		"lang": "en"
+	},
+	{
+		"code": "238",
+		"name": "Keikyä",
+		"lang": "en"
+	},
+	{
+		"code": "242",
+		"name": "Kemijärven mlk",
+		"lang": "en"
+	},
+	{
+		"code": "243",
+		"name": "Kemiö",
+		"lang": "en"
+	},
+	{
+		"code": "246",
+		"name": "Kerimäki",
+		"lang": "en"
+	},
+	{
+		"code": "247",
+		"name": "Kestilä",
+		"lang": "en"
+	},
+	{
+		"code": "248",
+		"name": "Kesälahti",
+		"lang": "en"
+	},
+	{
+		"code": "251",
+		"name": "Kiihtelysvaara",
+		"lang": "en"
+	},
+	{
+		"code": "252",
+		"name": "Kiikala",
+		"lang": "en"
+	},
+	{
+		"code": "253",
+		"name": "Kiikka",
+		"lang": "en"
+	},
+	{
+		"code": "254",
+		"name": "Kiikoinen",
+		"lang": "en"
+	},
+	{
+		"code": "255",
+		"name": "Kiiminki",
+		"lang": "en"
+	},
+	{
+		"code": "258",
+		"name": "Kirvu",
+		"lang": "en"
+	},
+	{
+		"code": "259",
+		"name": "Kisko",
+		"lang": "en"
+	},
+	{
+		"code": "262",
+		"name": "Kiukainen",
+		"lang": "en"
+	},
+	{
+		"code": "264",
+		"name": "Kivennapa",
+		"lang": "en"
+	},
+	{
+		"code": "266",
+		"name": "Kodisjoki",
+		"lang": "en"
+	},
+	{
+		"code": "267",
+		"name": "Koijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "268",
+		"name": "Koivisto",
+		"lang": "en"
+	},
+	{
+		"code": "269",
+		"name": "Koiviston mlk",
+		"lang": "en"
+	},
+	{
+		"code": "270",
+		"name": "Koivulahti",
+		"lang": "en"
+	},
+	{
+		"code": "274",
+		"name": "Konginkangas",
+		"lang": "en"
+	},
+	{
+		"code": "277",
+		"name": "Korpilahti",
+		"lang": "en"
+	},
+	{
+		"code": "278",
+		"name": "Korpiselkä",
+		"lang": "en"
+	},
+	{
+		"code": "279",
+		"name": "Korppoo",
+		"lang": "en"
+	},
+	{
+		"code": "281",
+		"name": "Kortesjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "282",
+		"name": "Koskenpää",
+		"lang": "en"
+	},
+	{
+		"code": "283",
+		"name": "Hämeenkoski",
+		"lang": "en"
+	},
+	{
+		"code": "289",
+		"name": "Kuhmalahti",
+		"lang": "en"
+	},
+	{
+		"code": "292",
+		"name": "Kuivaniemi",
+		"lang": "en"
+	},
+	{
+		"code": "293",
+		"name": "Kullaa",
+		"lang": "en"
+	},
+	{
+		"code": "294",
+		"name": "Kulosaaren hk",
+		"lang": "en"
+	},
+	{
+		"code": "296",
+		"name": "Kuolemajärvi",
+		"lang": "en"
+	},
+	{
+		"code": "298",
+		"name": "Kuopion mlk",
+		"lang": "en"
+	},
+	{
+		"code": "299",
+		"name": "Kuorevesi",
+		"lang": "en"
+	},
+	{
+		"code": "302",
+		"name": "Kurkijoki",
+		"lang": "en"
+	},
+	{
+		"code": "303",
+		"name": "Kuru",
+		"lang": "en"
+	},
+	{
+		"code": "306",
+		"name": "Kuusankoski",
+		"lang": "en"
+	},
+	{
+		"code": "307",
+		"name": "Kuusisto",
+		"lang": "en"
+	},
+	{
+		"code": "308",
+		"name": "Kuusjoki",
+		"lang": "en"
+	},
+	{
+		"code": "310",
+		"name": "Kylmäkoski",
+		"lang": "en"
+	},
+	{
+		"code": "311",
+		"name": "Kymi",
+		"lang": "en"
+	},
+	{
+		"code": "313",
+		"name": "Käkisalmi",
+		"lang": "en"
+	},
+	{
+		"code": "314",
+		"name": "Käkisalmen mlk",
+		"lang": "en"
+	},
+	{
+		"code": "315",
+		"name": "Kälviä",
+		"lang": "en"
+	},
+	{
+		"code": "319",
+		"name": "Köyliö",
+		"lang": "en"
+	},
+	{
+		"code": "321",
+		"name": "Kyyrölä",
+		"lang": "en"
+	},
+	{
+		"code": "397",
+		"name": "Lahdenpohja",
+		"lang": "en"
+	},
+	{
+		"code": "401",
+		"name": "Lammi",
+		"lang": "en"
+	},
+	{
+		"code": "404",
+		"name": "Lappee",
+		"lang": "en"
+	},
+	{
+		"code": "406",
+		"name": "Lappi",
+		"lang": "en"
+	},
+	{
+		"code": "409",
+		"name": "Lapväärtti",
+		"lang": "en"
+	},
+	{
+		"code": "411",
+		"name": "Lauritsala",
+		"lang": "en"
+	},
+	{
+		"code": "412",
+		"name": "Lavansaari",
+		"lang": "en"
+	},
+	{
+		"code": "414",
+		"name": "Lehtimäki",
+		"lang": "en"
+	},
+	{
+		"code": "415",
+		"name": "Leivonmäki",
+		"lang": "en"
+	},
+	{
+		"code": "419",
+		"name": "Lemu",
+		"lang": "en"
+	},
+	{
+		"code": "424",
+		"name": "Liljendal",
+		"lang": "en"
+	},
+	{
+		"code": "427",
+		"name": "Lohja",
+		"lang": "en"
+	},
+	{
+		"code": "428",
+		"name": "Lohjan kunta",
+		"lang": "en"
+	},
+	{
+		"code": "429",
+		"name": "Lohtaja",
+		"lang": "en"
+	},
+	{
+		"code": "431",
+		"name": "Loimaan kunta",
+		"lang": "en"
+	},
+	{
+		"code": "432",
+		"name": "Lokalahti",
+		"lang": "en"
+	},
+	{
+		"code": "437",
+		"name": "Lumivaara",
+		"lang": "en"
+	},
+	{
+		"code": "439",
+		"name": "Luopioinen",
+		"lang": "en"
+	},
+	{
+		"code": "442",
+		"name": "Luvia",
+		"lang": "en"
+	},
+	{
+		"code": "443",
+		"name": "Längelmäki",
+		"lang": "en"
+	},
+	{
+		"code": "477",
+		"name": "Maaria",
+		"lang": "en"
+	},
+	{
+		"code": "479",
+		"name": "Maksamaa",
+		"lang": "en"
+	},
+	{
+		"code": "482",
+		"name": "Mellilä",
+		"lang": "en"
+	},
+	{
+		"code": "485",
+		"name": "Merimasku",
+		"lang": "en"
+	},
+	{
+		"code": "486",
+		"name": "Messukylä",
+		"lang": "en"
+	},
+	{
+		"code": "487",
+		"name": "Metsämaa",
+		"lang": "en"
+	},
+	{
+		"code": "488",
+		"name": "Metsäpirtti",
+		"lang": "en"
+	},
+	{
+		"code": "490",
+		"name": "Mietoinen",
+		"lang": "en"
+	},
+	{
+		"code": "492",
+		"name": "Mikkelin mlk",
+		"lang": "en"
+	},
+	{
+		"code": "493",
+		"name": "Mouhijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "496",
+		"name": "Munsala",
+		"lang": "en"
+	},
+	{
+		"code": "497",
+		"name": "Muolaa",
+		"lang": "en"
+	},
+	{
+		"code": "501",
+		"name": "Muurla",
+		"lang": "en"
+	},
+	{
+		"code": "502",
+		"name": "Muuruvesi",
+		"lang": "en"
+	},
+	{
+		"code": "506",
+		"name": "Mänttä",
+		"lang": "en"
+	},
+	{
+		"code": "530",
+		"name": "Naantalin mlk",
+		"lang": "en"
+	},
+	{
+		"code": "532",
+		"name": "Nastola",
+		"lang": "en"
+	},
+	{
+		"code": "533",
+		"name": "Nauvo",
+		"lang": "en"
+	},
+	{
+		"code": "534",
+		"name": "Nilsiä",
+		"lang": "en"
+	},
+	{
+		"code": "537",
+		"name": "Noormarkku",
+		"lang": "en"
+	},
+	{
+		"code": "539",
+		"name": "Nuijamaa",
+		"lang": "en"
+	},
+	{
+		"code": "540",
+		"name": "Nummi-Pusula",
+		"lang": "en"
+	},
+	{
+		"code": "542",
+		"name": "Nurmeksen mlk",
+		"lang": "en"
+	},
+	{
+		"code": "544",
+		"name": "Nurmo",
+		"lang": "en"
+	},
+	{
+		"code": "559",
+		"name": "Oravainen",
+		"lang": "en"
+	},
+	{
+		"code": "565",
+		"name": "Oulujoki",
+		"lang": "en"
+	},
+	{
+		"code": "566",
+		"name": "Oulunkylä",
+		"lang": "en"
+	},
+	{
+		"code": "567",
+		"name": "Oulunsalo",
+		"lang": "en"
+	},
+	{
+		"code": "573",
+		"name": "Parainen",
+		"lang": "en"
+	},
+	{
+		"code": "574",
+		"name": "Paattinen",
+		"lang": "en"
+	},
+	{
+		"code": "575",
+		"name": "Paavola",
+		"lang": "en"
+	},
+	{
+		"code": "579",
+		"name": "Paraisten mlk",
+		"lang": "en"
+	},
+	{
+		"code": "582",
+		"name": "Pattijoki",
+		"lang": "en"
+	},
+	{
+		"code": "585",
+		"name": "Pernaja",
+		"lang": "en"
+	},
+	{
+		"code": "586",
+		"name": "Perniö",
+		"lang": "en"
+	},
+	{
+		"code": "587",
+		"name": "Pertteli",
+		"lang": "en"
+	},
+	{
+		"code": "589",
+		"name": "Peräseinäjoki",
+		"lang": "en"
+	},
+	{
+		"code": "590",
+		"name": "Petolahti",
+		"lang": "en"
+	},
+	{
+		"code": "591",
+		"name": "Petsamo",
+		"lang": "en"
+	},
+	{
+		"code": "594",
+		"name": "Pieksämäen mlk",
+		"lang": "en"
+	},
+	{
+		"code": "596",
+		"name": "Pielisensuu",
+		"lang": "en"
+	},
+	{
+		"code": "597",
+		"name": "Pielisjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "600",
+		"name": "Pihlajavesi",
+		"lang": "en"
+	},
+	{
+		"code": "602",
+		"name": "Piikkiö",
+		"lang": "en"
+	},
+	{
+		"code": "603",
+		"name": "Piippola",
+		"lang": "en"
+	},
+	{
+		"code": "605",
+		"name": "Pirttikylä",
+		"lang": "en"
+	},
+	{
+		"code": "606",
+		"name": "Pohja",
+		"lang": "en"
+	},
+	{
+		"code": "610",
+		"name": "Porin mlk",
+		"lang": "en"
+	},
+	{
+		"code": "612",
+		"name": "Porvoo",
+		"lang": "en"
+	},
+	{
+		"code": "613",
+		"name": "Porvoon mlk",
+		"lang": "en"
+	},
+	{
+		"code": "617",
+		"name": "Pulkkila",
+		"lang": "en"
+	},
+	{
+		"code": "618",
+		"name": "Punkaharju",
+		"lang": "en"
+	},
+	{
+		"code": "621",
+		"name": "Purmo",
+		"lang": "en"
+	},
+	{
+		"code": "622",
+		"name": "Pusula",
+		"lang": "en"
+	},
+	{
+		"code": "627",
+		"name": "Pyhäjärvi Ul",
+		"lang": "en"
+	},
+	{
+		"code": "628",
+		"name": "Pyhäjärvi Vpl",
+		"lang": "en"
+	},
+	{
+		"code": "629",
+		"name": "Pyhämaa",
+		"lang": "en"
+	},
+	{
+		"code": "632",
+		"name": "Pyhäselkä",
+		"lang": "en"
+	},
+	{
+		"code": "633",
+		"name": "Pylkönmäki",
+		"lang": "en"
+	},
+	{
+		"code": "634",
+		"name": "Pälkjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "637",
+		"name": "Pohjaslahti",
+		"lang": "en"
+	},
+	{
+		"code": "640",
+		"name": "Pieksänmaa",
+		"lang": "en"
+	},
+	{
+		"code": "679",
+		"name": "Raippaluoto",
+		"lang": "en"
+	},
+	{
+		"code": "682",
+		"name": "Rantsila",
+		"lang": "en"
+	},
+	{
+		"code": "685",
+		"name": "Rauman mlk",
+		"lang": "en"
+	},
+	{
+		"code": "688",
+		"name": "Rautio",
+		"lang": "en"
+	},
+	{
+		"code": "690",
+		"name": "Rautu",
+		"lang": "en"
+	},
+	{
+		"code": "692",
+		"name": "Renko",
+		"lang": "en"
+	},
+	{
+		"code": "693",
+		"name": "Revonlahti",
+		"lang": "en"
+	},
+	{
+		"code": "695",
+		"name": "Riistavesi",
+		"lang": "en"
+	},
+	{
+		"code": "696",
+		"name": "Ristiina",
+		"lang": "en"
+	},
+	{
+		"code": "699",
+		"name": "Rovaniemen mlk",
+		"lang": "en"
+	},
+	{
+		"code": "701",
+		"name": "Ruotsinpyhtää",
+		"lang": "en"
+	},
+	{
+		"code": "703",
+		"name": "Ruskeala",
+		"lang": "en"
+	},
+	{
+		"code": "705",
+		"name": "Rymättylä",
+		"lang": "en"
+	},
+	{
+		"code": "706",
+		"name": "Räisälä",
+		"lang": "en"
+	},
+	{
+		"code": "708",
+		"name": "Ruukki",
+		"lang": "en"
+	},
+	{
+		"code": "728",
+		"name": "Saari",
+		"lang": "en"
+	},
+	{
+		"code": "730",
+		"name": "Sahalahti",
+		"lang": "en"
+	},
+	{
+		"code": "731",
+		"name": "Sakkola",
+		"lang": "en"
+	},
+	{
+		"code": "733",
+		"name": "Salmi",
+		"lang": "en"
+	},
+	{
+		"code": "735",
+		"name": "Saloinen",
+		"lang": "en"
+	},
+	{
+		"code": "737",
+		"name": "Sammatti",
+		"lang": "en"
+	},
+	{
+		"code": "741",
+		"name": "Savonranta",
+		"lang": "en"
+	},
+	{
+		"code": "744",
+		"name": "Seinäjoen mlk",
+		"lang": "en"
+	},
+	{
+		"code": "745",
+		"name": "Seiskari",
+		"lang": "en"
+	},
+	{
+		"code": "750",
+		"name": "Siipyy",
+		"lang": "en"
+	},
+	{
+		"code": "752",
+		"name": "Simpele",
+		"lang": "en"
+	},
+	{
+		"code": "754",
+		"name": "Anjalankoski",
+		"lang": "en"
+	},
+	{
+		"code": "756",
+		"name": "Snappertuna",
+		"lang": "en"
+	},
+	{
+		"code": "757",
+		"name": "Soanlahti",
+		"lang": "en"
+	},
+	{
+		"code": "760",
+		"name": "Somerniemi",
+		"lang": "en"
+	},
+	{
+		"code": "763",
+		"name": "Sortavala",
+		"lang": "en"
+	},
+	{
+		"code": "764",
+		"name": "Sortavalan mlk",
+		"lang": "en"
+	},
+	{
+		"code": "767",
+		"name": "Suistamo",
+		"lang": "en"
+	},
+	{
+		"code": "769",
+		"name": "Sulva",
+		"lang": "en"
+	},
+	{
+		"code": "770",
+		"name": "Sumiainen",
+		"lang": "en"
+	},
+	{
+		"code": "772",
+		"name": "Suodenniemi",
+		"lang": "en"
+	},
+	{
+		"code": "773",
+		"name": "Suojärvi",
+		"lang": "en"
+	},
+	{
+		"code": "774",
+		"name": "Suolahti",
+		"lang": "en"
+	},
+	{
+		"code": "775",
+		"name": "Suomenniemi",
+		"lang": "en"
+	},
+	{
+		"code": "776",
+		"name": "Suomusjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "779",
+		"name": "Suoniemi",
+		"lang": "en"
+	},
+	{
+		"code": "780",
+		"name": "Suursaari",
+		"lang": "en"
+	},
+	{
+		"code": "782",
+		"name": "Säkkijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "784",
+		"name": "Särkisalo",
+		"lang": "en"
+	},
+	{
+		"code": "786",
+		"name": "Säyneinen",
+		"lang": "en"
+	},
+	{
+		"code": "787",
+		"name": "Säynätsalo",
+		"lang": "en"
+	},
+	{
+		"code": "788",
+		"name": "Sääksmäki",
+		"lang": "en"
+	},
+	{
+		"code": "789",
+		"name": "Sääminki",
+		"lang": "en"
+	},
+	{
+		"code": "835",
+		"name": "Tammisaari",
+		"lang": "en"
+	},
+	{
+		"code": "836",
+		"name": "Tammisaaren mlk",
+		"lang": "en"
+	},
+	{
+		"code": "839",
+		"name": "Teerijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "840",
+		"name": "Teisko",
+		"lang": "en"
+	},
+	{
+		"code": "841",
+		"name": "Temmes",
+		"lang": "en"
+	},
+	{
+		"code": "842",
+		"name": "Tenhola",
+		"lang": "en"
+	},
+	{
+		"code": "843",
+		"name": "Terijoki",
+		"lang": "en"
+	},
+	{
+		"code": "847",
+		"name": "Tiukka",
+		"lang": "en"
+	},
+	{
+		"code": "852",
+		"name": "Tottijärvi",
+		"lang": "en"
+	},
+	{
+		"code": "855",
+		"name": "Tuulos",
+		"lang": "en"
+	},
+	{
+		"code": "856",
+		"name": "Tuupovaara",
+		"lang": "en"
+	},
+	{
+		"code": "860",
+		"name": "Tyrväntö",
+		"lang": "en"
+	},
+	{
+		"code": "861",
+		"name": "Tyrvää",
+		"lang": "en"
+	},
+	{
+		"code": "862",
+		"name": "Tytärsaari",
+		"lang": "en"
+	},
+	{
+		"code": "863",
+		"name": "Töysä",
+		"lang": "en"
+	},
+	{
+		"code": "864",
+		"name": "Toijala",
+		"lang": "en"
+	},
+	{
+		"code": "885",
+		"name": "Ullava",
+		"lang": "en"
+	},
+	{
+		"code": "888",
+		"name": "Uskela",
+		"lang": "en"
+	},
+	{
+		"code": "891",
+		"name": "Uukuniemi",
+		"lang": "en"
+	},
+	{
+		"code": "894",
+		"name": "Uudenkaarlepyyn mlk",
+		"lang": "en"
+	},
+	{
+		"code": "896",
+		"name": "Uudenkaupungin mlk",
+		"lang": "en"
+	},
+	{
+		"code": "897",
+		"name": "Uusikirkko",
+		"lang": "en"
+	},
+	{
+		"code": "906",
+		"name": "Vahto",
+		"lang": "en"
+	},
+	{
+		"code": "907",
+		"name": "Vahviala",
+		"lang": "en"
+	},
+	{
+		"code": "909",
+		"name": "Valkeala",
+		"lang": "en"
+	},
+	{
+		"code": "910",
+		"name": "Valkjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "912",
+		"name": "Vammala",
+		"lang": "en"
+	},
+	{
+		"code": "913",
+		"name": "Vampula",
+		"lang": "en"
+	},
+	{
+		"code": "914",
+		"name": "Vanaja",
+		"lang": "en"
+	},
+	{
+		"code": "916",
+		"name": "Varpaisjärvi",
+		"lang": "en"
+	},
+	{
+		"code": "917",
+		"name": "Vehkalahti",
+		"lang": "en"
+	},
+	{
+		"code": "919",
+		"name": "Vehmersalmi",
+		"lang": "en"
+	},
+	{
+		"code": "920",
+		"name": "Velkua",
+		"lang": "en"
+	},
+	{
+		"code": "923",
+		"name": "Västanfjärd",
+		"lang": "en"
+	},
+	{
+		"code": "926",
+		"name": "Vihanti",
+		"lang": "en"
+	},
+	{
+		"code": "928",
+		"name": "Viiala",
+		"lang": "en"
+	},
+	{
+		"code": "929",
+		"name": "Viipuri",
+		"lang": "en"
+	},
+	{
+		"code": "930",
+		"name": "Viipurin mlk",
+		"lang": "en"
+	},
+	{
+		"code": "932",
+		"name": "Viljakkala",
+		"lang": "en"
+	},
+	{
+		"code": "933",
+		"name": "Vilppula",
+		"lang": "en"
+	},
+	{
+		"code": "937",
+		"name": "Virtasalmi",
+		"lang": "en"
+	},
+	{
+		"code": "938",
+		"name": "Vuoksela",
+		"lang": "en"
+	},
+	{
+		"code": "939",
+		"name": "Vuoksenranta",
+		"lang": "en"
+	},
+	{
+		"code": "940",
+		"name": "Vuolijoki",
+		"lang": "en"
+	},
+	{
+		"code": "942",
+		"name": "Vähäkyrö",
+		"lang": "en"
+	},
+	{
+		"code": "943",
+		"name": "Värtsilä",
+		"lang": "en"
+	},
+	{
+		"code": "944",
+		"name": "Vöyri",
+		"lang": "en"
+	},
+	{
+		"code": "945",
+		"name": "Vöyri-Maksamaa",
+		"lang": "en"
+	},
+	{
+		"code": "971",
+		"name": "Ylihärmä",
+		"lang": "en"
+	},
+	{
+		"code": "972",
+		"name": "Yli-Ii",
+		"lang": "en"
+	},
+	{
+		"code": "973",
+		"name": "Ylikiiminki",
+		"lang": "en"
+	},
+	{
+		"code": "974",
+		"name": "Ylimarkku",
+		"lang": "en"
+	},
+	{
+		"code": "975",
+		"name": "Ylistaro",
+		"lang": "en"
+	},
+	{
+		"code": "978",
+		"name": "Ylämaa",
+		"lang": "en"
+	},
+	{
+		"code": "979",
+		"name": "Yläne",
+		"lang": "en"
+	},
+	{
+		"code": "988",
+		"name": "Äetsä",
+		"lang": "en"
+	},
+	{
+		"code": "990",
+		"name": "Ähtävä",
+		"lang": "en"
+	},
+	{
+		"code": "991",
+		"name": "Äyräpää",
+		"lang": "en"
+	},
+	{
+		"code": "993",
+		"name": "Äänekosken mlk",
+		"lang": "en"
+	},
+	{
+		"code": "994",
+		"name": "Pirkkala",
+		"lang": "en"
+	},
+	{
+		"code": "997",
+		"name": "Öja",
+		"lang": "en"
+	},
+	{
+		"code": "200",
+		"name": "Foreign country",
+		"lang": "en"
+  },
+	{
+		"code": "198",
+		"name": "Foreign country",
+		"lang": "en"
+  },
+	{
+		"code": "199",
+		"name": "Unknown",
+		"lang": "en"
+	}
+]

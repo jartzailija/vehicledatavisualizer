@@ -1,0 +1,10 @@
+vehicledata.csv
+vehicledata.json
+node_modules
+package-lock.json
+test.json
+testdata.csv
+.vscode
+./**/node_modules
+./**/package-lock.json
+./**/build

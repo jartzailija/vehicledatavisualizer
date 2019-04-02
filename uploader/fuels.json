@@ -1,0 +1,722 @@
+[
+ {
+   "code": "01",
+   "name": "Petrol",
+   "lang": "en"
+ },
+ {
+   "code": "01",
+   "name": "Bensiini",
+   "lang": "fi"
+ },
+ {
+   "code": "01",
+   "name": "Bensin",
+   "lang": "sv"
+ },
+ {
+   "code": "02",
+   "name": "Diesel fuel",
+   "lang": "en"
+ },
+ {
+   "code": "02",
+   "name": "Dieselöljy",
+   "lang": "fi"
+ },
+ {
+   "code": "02",
+   "name": "Dieselolja",
+   "lang": "sv"
+ },
+ {
+   "code": "03",
+   "name": "Fuel oil",
+   "lang": "en"
+ },
+ {
+   "code": "03",
+   "name": "Polttoöljy",
+   "lang": "fi"
+ },
+ {
+   "code": "03",
+   "name": "Brännolja",
+   "lang": "sv"
+ },
+ {
+   "code": "04",
+   "name": "Electricity",
+   "lang": "en"
+ },
+ {
+   "code": "04",
+   "name": "Sähkö",
+   "lang": "fi"
+ },
+ {
+   "code": "04",
+   "name": "Elektricitet",
+   "lang": "sv"
+ },
+ {
+   "code": "05",
+   "name": "Hydrogen",
+   "lang": "en"
+ },
+ {
+   "code": "05",
+   "name": "Vety",
+   "lang": "fi"
+ },
+ {
+   "code": "05",
+   "name": "Hydrogen",
+   "lang": "sv"
+ },
+ {
+   "code": "06",
+   "name": "Gas",
+   "lang": "en"
+ },
+ {
+   "code": "06",
+   "name": "Kaasu",
+   "lang": "fi"
+ },
+ {
+   "code": "06",
+   "name": "Gas",
+   "lang": "sv"
+ },
+ {
+   "code": "07",
+   "name": "Methanol",
+   "lang": "en"
+ },
+ {
+   "code": "07",
+   "name": "Metanol",
+   "lang": "sv"
+ },
+ {
+   "code": "07",
+   "name": "Metanoli",
+   "lang": "fi"
+ },
+ {
+   "code": "10",
+   "name": "Biodiesel fuel",
+   "lang": "en"
+ },
+ {
+   "code": "10",
+   "name": "Biodiesel",
+   "lang": "fi"
+ },
+ {
+   "code": "10",
+   "name": "Biodiesel",
+   "lang": "sv"
+ },
+ {
+   "code": "11",
+   "name": "LPG",
+   "lang": "en"
+ },
+ {
+   "code": "11",
+   "name": "LPG",
+   "lang": "fi"
+ },
+ {
+   "code": "11",
+   "name": "LPG",
+   "lang": "sv"
+ },
+ {
+   "code": "13",
+   "name": "CNG",
+   "lang": "en"
+ },
+ {
+   "code": "13",
+   "name": "CNG",
+   "lang": "fi"
+ },
+ {
+   "code": "13",
+   "name": "CNG",
+   "lang": "sv"
+ },
+ {
+   "code": "31",
+   "name": "Light fuel oil (kerosene)",
+   "lang": "en"
+ },
+ {
+   "code": "31",
+   "name": "Moottoripetroli",
+   "lang": "fi"
+ },
+ {
+   "code": "31",
+   "name": "Motorfotogen",
+   "lang": "sv"
+ },
+ {
+   "code": "32",
+   "name": "Diesel/wood",
+   "lang": "en"
+ },
+ {
+   "code": "32",
+   "name": "Diesel/Trä",
+   "lang": "sv"
+ },
+ {
+   "code": "32",
+   "name": "Diesel/Puu",
+   "lang": "fi"
+ },
+ {
+   "code": "33",
+   "name": "Petrol/wood",
+   "lang": "en"
+ },
+ {
+   "code": "33",
+   "name": "Bensiini/Puu",
+   "lang": "fi"
+ },
+ {
+   "code": "33",
+   "name": "Bensin/Trä",
+   "lang": "sv"
+ },
+ {
+   "code": "34",
+   "name": "Petrol + light fuel oil (kerosene)",
+   "lang": "en"
+ },
+ {
+   "code": "34",
+   "name": "Bensiini + moottoripetroli",
+   "lang": "fi"
+ },
+ {
+   "code": "34",
+   "name": "Bensin + motorfotogen",
+   "lang": "sv"
+ },
+ {
+   "code": "37",
+   "name": "Ethanol",
+   "lang": "en"
+ },
+ {
+   "code": "37",
+   "name": "Etanoli",
+   "lang": "fi"
+ },
+ {
+   "code": "37",
+   "name": "Etanol",
+   "lang": "sv"
+ },
+ {
+   "code": "38",
+   "name": "Petrol/CNG",
+   "lang": "en"
+ },
+ {
+   "code": "38",
+   "name": "Bensiini/CNG",
+   "lang": "fi"
+ },
+ {
+   "code": "38",
+   "name": "Bensin/CNG",
+   "lang": "sv"
+ },
+ {
+   "code": "39",
+   "name": "Petrol/Electricity",
+   "lang": "en"
+ },
+ {
+   "code": "39",
+   "name": "Bensiini/Sähkö",
+   "lang": "fi"
+ },
+ {
+   "code": "39",
+   "name": "Bensin/Elektricitet",
+   "lang": "sv"
+ },
+ {
+   "code": "40",
+   "name": "Petrol/Ethanol",
+   "lang": "en"
+ },
+ {
+   "code": "40",
+   "name": "Bensiini/Etanoli",
+   "lang": "fi"
+ },
+ {
+   "code": "40",
+   "name": "Bensin/Etanol",
+   "lang": "sv"
+ },
+ {
+   "code": "41",
+   "name": "Petrol/Methanol",
+   "lang": "en"
+ },
+ {
+   "code": "41",
+   "name": "Bensiini/Metanoli",
+   "lang": "fi"
+ },
+ {
+   "code": "41",
+   "name": "Bensin/Metanol",
+   "lang": "sv"
+ },
+ {
+   "code": "42",
+   "name": "Petrol/LPG",
+   "lang": "en"
+ },
+ {
+   "code": "42",
+   "name": "Bensiini/LPG",
+   "lang": "fi"
+ },
+ {
+   "code": "42",
+   "name": "Bensin/LPG",
+   "lang": "sv"
+ },
+ {
+   "code": "43",
+   "name": "Diesel fuel / CNG",
+   "lang": "en"
+ },
+ {
+   "code": "43",
+   "name": "Diesel/CNG",
+   "lang": "fi"
+ },
+ {
+   "code": "43",
+   "name": "Diesel/CNG",
+   "lang": "sv"
+ },
+ {
+   "code": "44",
+   "name": "Diesel fuel / Electricity",
+   "lang": "en"
+ },
+ {
+   "code": "44",
+   "name": "Diesel/Sähkö",
+   "lang": "fi"
+ },
+ {
+   "code": "44",
+   "name": "Diesel/Elektricitet",
+   "lang": "sv"
+ },
+ {
+   "code": "45",
+   "name": "Diesel fuel / Ethanol",
+   "lang": "en"
+ },
+ {
+   "code": "45",
+   "name": "Diesel/Etanoli",
+   "lang": "fi"
+ },
+ {
+   "code": "45",
+   "name": "Diesel/Etanol",
+   "lang": "sv"
+ },
+ {
+   "code": "46",
+   "name": "Diesel fuel / Methanol",
+   "lang": "en"
+ },
+ {
+   "code": "46",
+   "name": "Diesel/Metanoli",
+   "lang": "fi"
+ },
+ {
+   "code": "46",
+   "name": "Diesel/Metanol",
+   "lang": "sv"
+ },
+ {
+   "code": "47",
+   "name": "Diesel fuel / LPG",
+   "lang": "en"
+ },
+ {
+   "code": "47",
+   "name": "Diesel/LPG",
+   "lang": "fi"
+ },
+ {
+   "code": "47",
+   "name": "Diesel/LPG",
+   "lang": "sv"
+ },
+ {
+   "code": "48",
+   "name": "Diesel fuel / Biodiesel fuel",
+   "lang": "en"
+ },
+ {
+   "code": "48",
+   "name": "Diesel/Biodiesel",
+   "lang": "fi"
+ },
+ {
+   "code": "48",
+   "name": "Diesel/Biodiesel",
+   "lang": "sv"
+ },
+ {
+   "code": "49",
+   "name": "Diesel fuel / Biodiesel fuel / Electricity",
+   "lang": "en"
+ },
+ {
+   "code": "49",
+   "name": "Diesel/Biodiesel/Sähkö",
+   "lang": "fi"
+ },
+ {
+   "code": "49",
+   "name": "Diesel/Biodiesel/Elektricitet",
+   "lang": "sv"
+ },
+ {
+   "code": "50",
+   "name": "Diesel fuel / Biodiesel fuel / Ethanol",
+   "lang": "en"
+ },
+ {
+   "code": "50",
+   "name": "Diesel/Biodiesel/Etanoli",
+   "lang": "fi"
+ },
+ {
+   "code": "50",
+   "name": "Diesel/Biodiesel/Etanol",
+   "lang": "sv"
+ },
+ {
+   "code": "51",
+   "name": "Diesel fuel / Biodiesel fuel / Methanol",
+   "lang": "en"
+ },
+ {
+   "code": "51",
+   "name": "Diesel/Biodiesel/Metanoli",
+   "lang": "fi"
+ },
+ {
+   "code": "51",
+   "name": "Diesel/Biodiesel/Metanol",
+   "lang": "sv"
+ },
+ {
+   "code": "52",
+   "name": "Diesel fuel / Biodiesel fuel / LPG",
+   "lang": "en"
+ },
+ {
+   "code": "52",
+   "name": "Diesel/Biodiesel/LPG",
+   "lang": "fi"
+ },
+ {
+   "code": "52",
+   "name": "Diesel/Biodiesel/LPG",
+   "lang": "sv"
+ },
+ {
+   "code": "53",
+   "name": "Diesel fuel / Biodiesel fuel / CNG",
+   "lang": "en"
+ },
+ {
+   "code": "53",
+   "name": "Diesel/Biodiesel/CNG",
+   "lang": "fi"
+ },
+ {
+   "code": "53",
+   "name": "Diesel/Biodiesel/CNG",
+   "lang": "sv"
+ },
+ {
+   "code": "54",
+   "name": "Hydrogen/Electricity",
+   "lang": "en"
+ },
+ {
+   "code": "54",
+   "name": "Hydrogen/Elektricitet",
+   "lang": "sv"
+ },
+ {
+   "code": "54",
+   "name": "Vety/Sähkö",
+   "lang": "fi"
+ },
+ {
+   "code": "55",
+   "name": "Diesel fuel / Other",
+   "lang": "en"
+ },
+ {
+   "code": "55",
+   "name": "Dieselolja/Övrig",
+   "lang": "sv"
+ },
+ {
+   "code": "55",
+   "name": "Dieselöljy/Muu",
+   "lang": "fi"
+ },
+ {
+   "code": "56",
+   "name": "Natural gas type H",
+   "lang": "en"
+ },
+ {
+   "code": "56",
+   "name": "H-ryhmän maakaasu",
+   "lang": "fi"
+ },
+ {
+   "code": "56",
+   "name": "Naturgastyp H",
+   "lang": "sv"
+ },
+ {
+   "code": "57",
+   "name": "Natural gas type L",
+   "lang": "en"
+ },
+ {
+   "code": "57",
+   "name": "L-ryhmän maakaasu",
+   "lang": "fi"
+ },
+ {
+   "code": "57",
+   "name": "Naturgastyp L",
+   "lang": "sv"
+ },
+ {
+   "code": "58",
+   "name": "Natural gas type HL",
+   "lang": "en"
+ },
+ {
+   "code": "58",
+   "name": "HL-ryhmän maakaasu",
+   "lang": "fi"
+ },
+ {
+   "code": "58",
+   "name": "Naturgastyp HL",
+   "lang": "sv"
+ },
+ {
+   "code": "59",
+   "name": "Natural gas / Biomethane",
+   "lang": "en"
+ },
+ {
+   "code": "59",
+   "name": "CNG/Biometaani",
+   "lang": "fi"
+ },
+ {
+   "code": "59",
+   "name": "CNG/Biometan",
+   "lang": "sv"
+ },
+ {
+   "code": "60",
+   "name": "Biometaani",
+   "lang": "fi"
+ },
+ {
+   "code": "60",
+   "name": "Biometan",
+   "lang": "sv"
+ },
+ {
+   "code": "60",
+   "name": "Biomethan",
+   "lang": "en"
+ },
+ {
+   "code": "61",
+   "name": "Puu",
+   "lang": "fi"
+ },
+ {
+   "code": "61",
+   "name": "Träd",
+   "lang": "sv"
+ },
+ {
+   "code": "61",
+   "name": "Wood",
+   "lang": "en"
+ },
+ {
+   "code": "62",
+   "name": "Etanoli (ED95)",
+   "lang": "fi"
+ },
+ {
+   "code": "62",
+   "name": "Etanol (ED95)",
+   "lang": "sv"
+ },
+ {
+   "code": "62",
+   "name": "Ethanol (ED95)",
+   "lang": "en"
+ },
+ {
+   "code": "63",
+   "name": "Etanoli (E85)",
+   "lang": "fi"
+ },
+ {
+   "code": "63",
+   "name": "Etanol (E85)",
+   "lang": "sv"
+ },
+ {
+   "code": "63",
+   "name": "Ethanol (E85)",
+   "lang": "en"
+ },
+ {
+   "code": "64",
+   "name": "Vety-maakaasuseos",
+   "lang": "fi"
+ },
+ {
+   "code": "64",
+   "name": "H2NG-blandning",
+   "lang": "sv"
+ },
+ {
+   "code": "64",
+   "name": "H2NG",
+   "lang": "en"
+ },
+ {
+   "code": "65",
+   "name": "LNG",
+   "lang": "fi"
+ },
+ {
+   "code": "65",
+   "name": "LNG",
+   "lang": "sv"
+ },
+ {
+   "code": "65",
+   "name": "LNG",
+   "lang": "en"
+ },
+ {
+   "code": "66",
+   "name": "LNG20",
+   "lang": "fi"
+ },
+ {
+   "code": "66",
+   "name": "LNG20",
+   "lang": "sv"
+ },
+ {
+   "code": "66",
+   "name": "LNG20",
+   "lang": "en"
+ },
+ {
+   "code": "67",
+   "name": "Diesel/LNG",
+   "lang": "fi"
+ },
+ {
+   "code": "67",
+   "name": "Diesel/LNG",
+   "lang": "sv"
+ },
+ {
+   "code": "67",
+   "name": "Diesel/LNG",
+   "lang": "en"
+ },
+ {
+   "code": "68",
+   "name": "Diesel/LNG20",
+   "lang": "fi"
+ },
+ {
+   "code": "68",
+   "name": "Diesel/LNG20",
+   "lang": "sv"
+ },
+ {
+   "code": "68",
+   "name": "Diesel/LNG20",
+   "lang": "en"
+ },
+ {
+   "code": "X",
+   "name": "Not applicable",
+   "lang": "en"
+ },
+ {
+   "code": "X",
+   "name": "Ei sovellettavissa",
+   "lang": "fi"
+ },
+ {
+   "code": "X",
+   "name": "Ej tillämplig",
+   "lang": "sv"
+ },
+ {
+   "code": "Y",
+   "name": "Other",
+   "lang": "en"
+ },
+ {
+   "code": "Y",
+   "name": "Muu",
+   "lang": "fi"
+ },
+ {
+   "code": "Y",
+   "name": "Övrig",
+   "lang": "sv"
+ }
+]

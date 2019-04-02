@@ -1,0 +1,83 @@
+{
+  "settings": {
+    "index.mapping.ignore_malformed": true
+  },
+  "mappings":{
+    "_doc":{
+      "properties":{
+        "ajoneuvoluokka":{
+          "type":"keyword"
+        },
+        "ensirekisterointipvm":{
+          "type":"date"
+        },
+        "kayttovoima":{
+          "type":"keyword"
+        },
+        "iskutilavuus":{
+          "type":"integer"
+        },
+        "suurinNettoteho":{
+          "type":"integer"
+        },
+        "merkkiSelvakielinen":{
+          "type":"keyword"
+        },
+        "mallimerkinta":{
+          "type":"text"
+        },
+        "kaupallinenNimi":{
+          "type":"keyword"
+        },
+        "kunta":{
+          "type":"keyword"
+        },
+        "matkamittarilukema":{
+          "type":"integer"
+        }
+      }
+    }
+  }
+}
+
+{
+  "settings": {
+    "index.mapping.ignore_malformed": true
+  },
+  "mappings":{
+    "_doc":{
+      "properties":{
+        "vehicleclass":{
+          "type":"keyword"
+        },
+        "registrationdate":{
+          "type":"date"
+        },
+        "fuel":{
+          "type":"keyword"
+        },
+        "cylindercapacity":{
+          "type":"integer"
+        },
+        "power":{
+          "type":"integer"
+        },
+        "carbrand":{
+          "type":"keyword"
+        },
+        "model":{
+          "type":"text"
+        },
+        "simplemodel":{
+          "type":"keyword"
+        },
+        "municipality":{
+          "type":"keyword"
+        },
+        "mileage":{
+          "type":"integer"
+        }
+      }
+    }
+  }
+}
