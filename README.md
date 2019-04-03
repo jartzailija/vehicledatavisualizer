@@ -14,7 +14,7 @@ Update the server URL in _carsearch-client/src/configs.js_ -file.
 
 Start up ElasticSearch and run the mapping there to the _vehicles_ -index by using _Kibana_ or _curl_. ( https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html#_example_mapping ) The mapping data is located to _uploader/mapping.json_.
 
-You should get the newest "Open data for vehicles" ( https://www.avoindata.fi/data/fi/dataset/ajoneuvojen-avoin-data ) saved as _vehicledata.csv_ into the _uploader_ folder. Then you can run `node dataConverter.js` and `node uploader.js` - commands, which transforms the csv data to JSON format and sends it to the elasticsearch creating an index named as _vehicles_. Running these might take couple of minutes.
+You should get the newest "Open data for vehicles" ( https://www.avoindata.fi/data/fi/dataset/ajoneuvojen-avoin-data ) saved as _vehicledata.csv_ into the _uploader_ folder. Then you can run `node dataConverter.js` and `node --max-old-space-size=4096 uploader.js` - commands (please notice the ugly memory hack; the uploader needs recoding), which transforms the csv data to JSON format and sends it to the elasticsearch creating an index named as _vehicles_. Running these might take couple of minutes.
 
 After it run `npm run build` in the _carsearch-client_ -folder.
 
@@ -22,6 +22,7 @@ Eventually run `node index.js` in the root folder to start up server on the port
 
 ## TODO
 * Initialization script
+* Create a synchronized uploader which doesn't fill the buffer
 
 ## License
 
