@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Title /> render() renders the component with data 1`] = `
+<div
+  className="row"
+>
+  <Styled(Col)
+    className="col-md-12"
+  >
+    <h2>
+      Vehicle distribution
+       in TestMunicipality
+    </h2>
+  </Styled(Col)>
+  <div
+    className="col-md-12"
+  >
+    <p>
+      Vehicle count is 123
+    </p>
+  </div>
+</div>
+`;
+
+exports[`<Title /> render() renders the component without count 1`] = `
+<div
+  className="row"
+>
+  <Styled(Col)
+    className="col-md-12"
+  >
+    <h2>
+      Vehicle distribution
+       in TestMunicipality
+    </h2>
+  </Styled(Col)>
+</div>
+`;
+
+exports[`<Title /> render() renders the component without municipality 1`] = `
+<div
+  className="row"
+>
+  <Styled(Col)
+    className="col-md-12"
+  >
+    <h2>
+      Vehicle distribution
+    </h2>
+  </Styled(Col)>
+  <div
+    className="col-md-12"
+  >
+    <p>
+      Vehicle count is 123
+    </p>
+  </div>
+</div>
+`;
