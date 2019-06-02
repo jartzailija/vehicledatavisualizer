@@ -2,72 +2,33 @@ import React from 'react';
 import { shallow, mount } from 'enzyme';
 import toJson from 'enzyme-to-json';
 import { Provider } from 'react-redux';
+import configureStore from 'redux-mock-store';
+import { createMockStore } from "redux-test-utils";
+import shallowWithStore from '../utils/shallowWithStore';
 
 // Component to be tested
 import Suggester from '../../src/components/Suggester';
 import SuggesterContainer from '../../src/containers/Suggester';
 
-jest.mock('../../src/components/Suggester');
-
-const storeFake = state => {
-  return {
-    default: jest.fn(),
-    subscribe: jest.fn(),
-    dispatch: jest.fn(),
-    getState: () => state,
-  };
-};
-
-
 describe('<Suggester />', () => {
 
-  //let container;
-  //let component;
-  //let wrapper;
+  const mockState = {
+    municipalities: {
+      input: 'kunta',
+      suggestions: ['kunta1', 'kunta2'],
+      selected: ''
+    }
+  };
 
-  /*beforeEach(() => {
-    jest.resetAllMocks();
+  it('renders', () => {
+    const store = createMockStore(mockState);
+    const container = shallowWithStore(<SuggesterContainer name="name" description="description" />, store);
+    expect(container).toBeTruthy();
 
-    const store = storeFake({
-      municipalities: {
-        input: 'kunta',
-        suggestions: ['kunta1', 'kunta2'],
-        selected: ''
-      }
-    });
+    /*const container = wrapper.find(SuggesterContainer);
+    const component = container.dive().find(Suggester);
 
-
-    wrapper = shallow(
-      <Provider store={store}>
-        <SuggesterContainer name="name" description="description" />
-      </Provider>
-    ).dive();
-    
-    console.log('jeejee', wrapper);
-    container = wrapper.find(SuggesterContainer);
-    console.log('container', container);
-    component = container.find(Suggester);
-  });*/
-
-  describe('render', () => {
-    const store = storeFake({
-      municipalities: {
-        input: 'kunta',
-        suggestions: ['kunta1', 'kunta2'],
-        selected: ''
-      }
-    });
-
-    const wrapper = shallow(
-      <Provider store={store}>
-        <SuggesterContainer name="name" description="description" />
-      </Provider>
-    ).dive();
-
-    const container = wrapper.find(SuggesterContainer);
-    const component = container.find(Suggester);
-
-    console.log(container);
-    expect(wrapper.html()).toBeTruthy();
+    console.log('container', container.debug());
+    expect(wrapper.find('SuggesterContainer')).to.have.lengthOf(1);*/
   });
 });
