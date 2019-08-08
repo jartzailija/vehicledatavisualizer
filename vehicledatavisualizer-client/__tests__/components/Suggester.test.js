@@ -5,10 +5,11 @@ import { Provider } from 'react-redux';
 import configureStore from 'redux-mock-store';
 import { createMockStore } from "redux-test-utils";
 import shallowWithStore from '../utils/shallowWithStore';
+import {setInput} from '../../src/redux/actions';
 
 // Component to be tested
 import Suggester from '../../src/components/Suggester';
-import SuggesterContainer from '../../src/containers/Suggester';
+import SuggesterContainer, {mapDispatchToProps, mapStateToProps} from '../../src/containers/Suggester';
 
 describe('<Suggester />', () => {
 
@@ -19,16 +20,31 @@ describe('<Suggester />', () => {
       selected: ''
     }
   };
+  let store;
+  //let container; 
+
+  beforeEach(() => {
+    store = createMockStore(mockState);
+  });
 
   it('renders', () => {
-    const store = createMockStore(mockState);
     const container = shallowWithStore(<SuggesterContainer name="name" description="description" />, store);
     expect(container).toBeTruthy();
+  });
 
-    /*const container = wrapper.find(SuggesterContainer);
-    const component = container.dive().find(Suggester);
+  //No need to test connection, it's taken care by the 3rd party library
+  //TODO: JATKA
+  it('test dispatch', () => {
+    const dispatch = jest.fn();
 
-    console.log('container', container.debug());
-    expect(wrapper.find('SuggesterContainer')).to.have.lengthOf(1);*/
+    const readyDispatch = mapDispatchToProps(dispatch, {name: 'j'})
+    readyDispatch.changeText('', {newValue: 'jo', method: ''});
+    expect(dispatch.mock.calls[0][0]).toEqual({ type: 'SET_INPUT', payload: 'jo'});
+
+    readyDispatch.select();
+  });
+
+  it('gets the state', () => {
+
   });
 });

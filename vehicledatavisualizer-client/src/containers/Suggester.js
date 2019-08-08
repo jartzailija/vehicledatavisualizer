@@ -9,7 +9,7 @@ import {
   emptyAverageData,
   emptySuggestions} from '../redux/actions';
 
-const mapStateToProps = (state, ownProps) => {
+export const mapStateToProps = (state, ownProps) => {
   return {
     ...ownProps,
     keywordSuggestion: state.municipalities.input,
@@ -18,7 +18,7 @@ const mapStateToProps = (state, ownProps) => {
   };
 };
 
-const mapDispatchToProps = (dispatch, ownProps) => ({
+export const mapDispatchToProps = (dispatch, ownProps) => ({
   changeText: (event, { newValue, method }) => {
     dispatch(setInput(newValue));
     if(newValue.length >= 3) {
