@@ -17,7 +17,7 @@ const FilterRow = () => {
   return (
     <BorderRow>
       <StyledCol md={{ size: 3, order: 2, offset: 3 }}>
-        <Suggester name="municipality"  description="Select a municipality" />
+        <Suggester name="municipality" description="Select a municipality" />
       </StyledCol>
     </BorderRow>
   );

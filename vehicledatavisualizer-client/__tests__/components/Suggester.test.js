@@ -33,7 +33,6 @@ describe('<Suggester />', () => {
   });
 
   //No need to test connection, it's taken care by the 3rd party library
-  //TODO: JATKA
   it('test dispatch', () => {
     const dispatch = jest.fn();
 
@@ -41,7 +40,9 @@ describe('<Suggester />', () => {
     readyDispatch.changeText('', {newValue: 'jo', method: ''});
     expect(dispatch.mock.calls[0][0]).toEqual({ type: 'SET_INPUT', payload: 'jo'});
 
-    readyDispatch.select();
+    readyDispatch.select('', {
+      suggestion: 'jo'
+    });
   });
 
   it('gets the state', () => {
