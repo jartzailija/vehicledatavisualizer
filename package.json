@@ -12,7 +12,7 @@
     "testPathIgnorePatterns": [
       "./vehicledatavisualizer-client/*",
       "./__tests__/integration.test.js",
-      "./__tests__/SearchHelper.test.js"
+      "./__tests__/api.test.js"
     ]
   },
   "author": "jartzailija",

@@ -40,10 +40,10 @@ const getOptions = (field, suggestion) => {
     });
 };
 
+//Used to get cars from a certain municipality
+const executeQuery = (field, value) => {
 
-const executeQuery = (field, suggestion) => {
-
-  if(field === undefined && suggestion === undefined) {
+  if(field === undefined || value === undefined) {
     var query = {
       match_all: {}
     };
@@ -52,7 +52,7 @@ const executeQuery = (field, suggestion) => {
     var query = {
       query_string: {
         fields: [field],
-        query: suggestion
+        query: value
       }
     };
   }
