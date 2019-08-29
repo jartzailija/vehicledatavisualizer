@@ -113,9 +113,89 @@ const executeQueryWithParamsResult = { carBrands:
     { name: 'Ford', count: 3135 } ],
  count: 40009 };
 
+const getSummaryWithCarBrand = {
+    "took": 10,
+    "timed_out": false,
+    "_shards": {
+        "total": 5,
+        "successful": 5,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 410713,
+        "max_score": 0,
+        "hits": []
+    },
+    "aggregations": {
+        "avg_hp": {
+            "value": 82.20220900594732
+        },
+        "avg_age": {
+            "value": 1126566540278.313,
+            "value_as_string": "2005-09-12"
+        },
+        "avg_mileage": {
+            "value": 204758.90016045692
+        },
+        "avg_size": {
+            "value": 1730.3505796526224
+        }
+    }
+};
+
+const getSummaryWithCarBrandResult = { count: 410713,
+    motorSize: 1730,
+    mileage: 204759,
+    power: 82,
+    age: 14
+};
+
+const getSummaryWithCarBrandAndMunicipality = {
+    "took": 40,
+    "timed_out": false,
+    "_shards": {
+        "total": 5,
+        "successful": 5,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 5025,
+        "max_score": 0,
+        "hits": []
+    },
+    "aggregations": {
+        "avg_hp": {
+            "value": 82.95576882954309
+        },
+        "avg_age": {
+            "value": 1099354271368.7986,
+            "value_as_string": "2004-11-02"
+        },
+        "avg_mileage": {
+            "value": 198469.36612903225
+        },
+        "avg_size": {
+            "value": 1695.8889331210191
+        }
+    }
+};
+
+const getSummaryWithCarBrandAndMunicipalityResult = { count: 5025,
+    motorSize: 1696,
+    mileage: 198469,
+    power: 83,
+    age: 14.8
+};
+
 module.exports = {
   executeQueryWithNoParams,
   executeQueryWithNoParamsResult,
   executeQueryWithParams,
-  executeQueryWithParamsResult
+  executeQueryWithParamsResult,
+  getSummaryWithCarBrand,
+  getSummaryWithCarBrandResult,
+  getSummaryWithCarBrandAndMunicipality,
+  getSummaryWithCarBrandAndMunicipalityResult
 }

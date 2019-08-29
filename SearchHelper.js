@@ -145,9 +145,9 @@ const getSummary = (queryObj) => {
       .then(json => {
         resolve({
           count: json.hits.total,
-          motorSize: Math.round(json.aggregations.avg_size.value),
-          mileage: Math.round(json.aggregations.avg_mileage.value),
-          power: Math.round(json.aggregations.avg_hp.value),
+          motorSize: Math.round(json.aggregations.avg_size.value || 0),
+          mileage: Math.round(json.aggregations.avg_mileage.value || 0),
+          power: Math.round(json.aggregations.avg_hp.value || 0),
           age: calculateAge(json.aggregations.avg_age.value_as_string) || 0
         });
       })

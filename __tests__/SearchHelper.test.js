@@ -22,25 +22,45 @@ describe('Testing SearchHelper functions', () => {
           }
         }
       }));
-      SearchHelper.getOptions('municipality', 'Pa').then(res => {
-        expect(res).toEqual(['Parainen', 'Parkano', 'Parikkala']);
-      });
+      return expect(SearchHelper.getOptions('municipality', 'Pa'))
+        .resolves.toEqual(['Parainen', 'Parkano', 'Parikkala']);
     });
   });
 
   describe('executeQuery', () => {
     it('no parameters', () => {
       fetch.mockResponse(JSON.stringify(esResponses.executeQueryWithNoParams));
-      SearchHelper.executeQuery().then(res => {
-        expect(res).toEqual(esResponses.executeQueryWithNoParamsResult);
-      });
+      return expect(SearchHelper.executeQuery())
+        .resolves.toEqual(esResponses.executeQueryWithNoParamsResult);
     });
 
     it('with parameters "municipality" and "Joensuu"', () => {
       fetch.mockResponse(JSON.stringify(esResponses.executeQueryWithParams));
-      SearchHelper.executeQuery('municipality', 'Joensuu').then(res => {
-        expect(res).toEqual(esResponses.executeQueryWithParamsResult);
-      });
+      return expect(SearchHelper.executeQuery('municipality', 'Joensuu'))
+        .resolves.toEqual(esResponses.executeQueryWithParamsResult);
+    });
+  });
+
+  describe('getSummary', () => {
+    it('with the carbrand -parameter', () => {
+      fetch.mockResponse(JSON.stringify(esResponses.getSummaryWithCarBrand));
+
+      const query = {
+        carbrand: 'Toyota'
+      };
+      return expect(SearchHelper.getSummary(query))
+        .resolves.toEqual(esResponses.getSummaryWithCarBrandResult);
+    });
+
+    it('with the carbrand and municipality -parameters', () => {
+      fetch.mockResponse(JSON.stringify(esResponses.getSummaryWithCarBrandAndMunicipality));
+
+      const query = {
+        municipality: 'Lappeenranta',
+        carbrand: 'Toyota'
+      };
+      return expect(SearchHelper.getSummary(query))
+        .resolves.toEqual(esResponses.getSummaryWithCarBrandAndMunicipalityResult);
     });
   });
 });
