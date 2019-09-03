@@ -1,27 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Title /> render() adds data correctly 1`] = `
-<div
-  className="row"
->
-  <Styled(Col)
-    className="col-md-12"
-  >
-    <h2>
-      Vehicle distribution
-       in Example
-    </h2>
-  </Styled(Col)>
-  <div
-    className="col-md-12"
-  >
-    <p>
-      Vehicle count is 123
-    </p>
-  </div>
-</div>
-`;
-
 exports[`<Title /> render() renders the component 1`] = `
 <div
   className="row"

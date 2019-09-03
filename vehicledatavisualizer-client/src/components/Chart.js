@@ -26,7 +26,7 @@ const Chart = ({data, hasCarBrands, municipality, count, onSectorClick}) => {
   if(data.length > renderLimit) {
     slicedData.push({
       name: "Other",
-      count: Number(data.slice(renderLimit).reduce(reducer, 0)) || 0
+      count: Number(data.slice(renderLimit).reduce(reducer, 0))
     });
   }
 
@@ -66,7 +66,7 @@ Chart.propTypes = {
   hasCarBrands: PropTypes.bool.isRequired,
   data: PropTypes.arrayOf(
     PropTypes.shape({
-      title: PropTypes.string,
+      name: PropTypes.string,
       count: PropTypes.number
     })
   ).isRequired,
