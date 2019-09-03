@@ -20,6 +20,7 @@ const Chart = ({data, hasCarBrands, municipality, count, onSectorClick}) => {
     const count = Number((sourceArray[currentIndex]).count);
     return accumulator + count;
   };
+  
   //Combine marginal car brands to reduce rendering time
   const slicedData = data.slice(0, renderLimit);
   if(data.length > renderLimit) {

@@ -7,7 +7,7 @@ jest.mock('../SearchHelper');
 describe('Testing API endpoints', () => {
 
   describe('GET /api/query/all', () => {
-    test('tests the endpoint', done => {
+    it('tests the endpoint', done => {
 
       request(app)
         .get('/api/query/all')
@@ -22,7 +22,7 @@ describe('Testing API endpoints', () => {
   });
 
   describe('GET /api/query/:field/:value', () => {
-    test('tests the endpoint', done => {
+    it('tests the endpoint', done => {
 
       request(app)
         .get('/api/query/field/value')
@@ -37,7 +37,7 @@ describe('Testing API endpoints', () => {
   });
 
   describe('GET /api/query/summary/municipality/:municipality/carbrand/:carBrand', () => {
-    test('tests the endpoint', done => {
+    it('tests the endpoint', done => {
 
       request(app)
         .get('/api/query/summary/municipality/kunta/carbrand/auto')
@@ -52,7 +52,7 @@ describe('Testing API endpoints', () => {
   });
 
   describe('GET /api/query/summary/carbrand/:carBrand', () => {
-    test('tests the endpoint', done => {
+    it('tests the endpoint', done => {
 
       request(app)
         .get('/api/query/summary/carbrand/auto')
@@ -67,7 +67,7 @@ describe('Testing API endpoints', () => {
   });
 
   describe('GET /api/values/:field/:suggestion', () => {
-    test('tests the endpoint', done => {
+    it('tests the endpoint', done => {
 
       request(app)
         .get('/api/values/field/suggestion')

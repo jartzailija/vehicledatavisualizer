@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<DataView /> render() renders the component with data 1`] = `
+exports[`<DataView /> rendering aka. smoke testing renders the component with data 1`] = `
 <div
   className="row"
 >
@@ -77,7 +77,7 @@ exports[`<DataView /> render() renders the component with data 1`] = `
 </div>
 `;
 
-exports[`<DataView /> render() renders the component without data 1`] = `
+exports[`<DataView /> rendering aka. smoke testing renders the component without data 1`] = `
 <StyledComponent
   forwardedComponent={
     Object {

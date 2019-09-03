@@ -21,7 +21,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "jest",
-    "test:coverage": "jest --coverage",
+    "coverage": "jest --coverage",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -40,10 +40,6 @@
     ],
     "testPathIgnorePatterns": [
       "./__tests__/setup/",
-      "./__tests__/components/Chart.test.js",
-      "./__tests__/components/Title.test.js",
-      "./__tests__/components/DataView.test.js",
-      "./__tests__/components/FilterRow.test.js",
       "./__tests__/utils/shallowWithStore.js"
     ]
   },
