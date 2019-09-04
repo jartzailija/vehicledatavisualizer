@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Suggester /> the proper component renders the component with data 1`] = `
+<div
+  className="wrapper"
+>
+  <Autosuggest
+    alwaysRenderSuggestions={false}
+    focusInputOnSuggestionClick={true}
+    getSuggestionValue={[Function]}
+    highlightFirstSuggestion={false}
+    id="1"
+    inputProps={
+      Object {
+        "onChange": [Function],
+        "placeholder": "description",
+        "value": "",
+      }
+    }
+    multiSection={false}
+    onSuggestionSelected={[Function]}
+    onSuggestionsClearRequested={[Function]}
+    onSuggestionsFetchRequested={[Function]}
+    renderSuggestion={[Function]}
+    renderSuggestionsContainer={[Function]}
+    shouldRenderSuggestions={[Function]}
+    suggestions={Array []}
+    theme={
+      Object {
+        "input": Object {
+          "width": "410px",
+        },
+        "suggestionsContainer": Object {
+          "backgroundColor": "white",
+          "position": "absolute",
+          "zIndex": 100,
+        },
+        "suggestionsList": Object {
+          "backgroundColor": "white",
+          "border": "1px solid black",
+          "listStyleType": "none",
+          "marginBottom": 0,
+          "padding": "3px",
+          "width": "410px",
+        },
+      }
+    }
+  />
+</div>
+`;

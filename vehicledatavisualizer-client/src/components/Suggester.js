@@ -40,18 +40,19 @@ const Suggester = ({name, description, keywordSuggestion, suggestions, changeTex
 	const getSuggestions = value => {
 		const inputValue = value.trim().toLowerCase();
 		const inputLength = inputValue.length;
-	
 		return inputLength === 0 ? [] : suggestions.filter(sug =>
 			sug.toLowerCase().slice(0, inputLength) === inputValue
 		);
 	};
 	
 	const onSuggestionsFetchRequested = ({ value }) => {
-		suggestions = getSuggestions(value);
+    suggestions = getSuggestions(value);
+    return suggestions;
 	};
 
 	const onSuggestionsClearRequested = () => {
-		suggestions = [];
+    suggestions = [];
+    return suggestions;
 	};
 
 	const inputProps = {

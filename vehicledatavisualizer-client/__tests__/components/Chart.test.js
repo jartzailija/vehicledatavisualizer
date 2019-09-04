@@ -9,6 +9,7 @@ import { normalCase, emptyCase, muchDataCase } from '../../__mocks__/Chart.mock'
 
 // Component to be tested
 import Chart from '../../src/components/Chart';
+import ChartContainer from '../../src/containers/Chart';
 
 describe('<Chart />', () => {
   describe('render()', () => {
