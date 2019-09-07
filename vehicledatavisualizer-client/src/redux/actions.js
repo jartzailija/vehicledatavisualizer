@@ -71,7 +71,7 @@ export const fetchSuggestions = (name, keyword) => {
 
   return dispatch => {
     //TODO: siirrä konffifiluun
-    fetch(`${configs.frontEndUrl}/api/values/${lowName}/${editedKeyword}`)
+    return fetch(`${configs.frontEndUrl}/api/values/${lowName}/${editedKeyword}`)
       .then(response => {
         return response.json();
       })
@@ -80,7 +80,7 @@ export const fetchSuggestions = (name, keyword) => {
         dispatch(setSuggestions(suggestions));
       })
       .catch(e => console.log(e));
-  }
+  };
 };
 
 export const fetchDataByKeyword = (name, keyword) => {
@@ -92,7 +92,7 @@ export const fetchDataByKeyword = (name, keyword) => {
     dispatch(unSelectCarBrand());
     dispatch(resetCarBrands());
     //TODO: siirrä konffifiluun
-    fetch(`${configs.frontEndUrl}/api/query/${lowName}/${editedKeyword}`)
+    return fetch(`${configs.frontEndUrl}/api/query/${lowName}/${editedKeyword}`)
       .then(response => {
         return response.json();
       })
@@ -113,7 +113,7 @@ export const getDataFromCarBrand = (brandName, municipality) => {
     dispatch(emptyAverageData());
     dispatch(selectCarBrand(brandName));
     //TODO: siirrä konffifiluun
-    fetch(start + end)
+    return fetch(start + end)
       .then(response => response.json())
       .then(json => dispatch(setAverageData(json)))
       .catch(e => console.log(e));
@@ -127,7 +127,7 @@ export const getCountrywideData = () => {
     dispatch(resetCarBrands());
     dispatch(unselectMunicipality());
     //TODO: siirrä konffifiluun
-    fetch(`${configs.frontEndUrl}/api/query/all`)
+    return fetch(`${configs.frontEndUrl}/api/query/all`)
       .then(response => response.json())
       .then(json => {
         dispatch(setHavingCarBrands(true));

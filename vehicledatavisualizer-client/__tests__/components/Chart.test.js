@@ -83,4 +83,18 @@ describe('<Chart />', () => {
       expect(component.find(ReactMinimalPieChart).html()).toMatch(/Other/);
     });
   });
+
+  describe('Container', () => {
+    it('combine marginal car brands to reduce rendering time', () => {
+      const wrapper = shallow(<Chart
+        hasCarBrands={true}
+        municipality={'TestMunicipality'}
+        count={123}
+        data={muchDataCase}
+        onSectorClick={() => console.log('Click')}
+      />);
+      const component = wrapper.dive();
+      expect(component.find(ReactMinimalPieChart).html()).toMatch(/Other/);
+    });
+  });
 });
