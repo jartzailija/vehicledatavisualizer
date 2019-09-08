@@ -4,7 +4,6 @@ import PropTypes from 'prop-types';
 import styled from 'styled-components';
 
 const Suggester = ({name, description, keywordSuggestion, suggestions, changeText, select}) => {
-
   //styled-components doesn't work with react-autosuggest
   const theme = {
 
@@ -71,6 +70,7 @@ const Suggester = ({name, description, keywordSuggestion, suggestions, changeTex
         onSuggestionSelected={select}
         getSuggestionValue={getSuggestionValue}
         renderSuggestion={renderSuggestion}
+        alwaysRenderSuggestions={true}
         inputProps={inputProps}
       />
     </div>

@@ -1,7 +1,6 @@
 import React from 'react';
 import { Row, Col } from 'reactstrap';
 import { shallow } from 'enzyme';
-import toJson from 'enzyme-to-json';
 import sinon from 'sinon';
 import ReactMinimalPieChart from 'react-minimal-pie-chart';
 

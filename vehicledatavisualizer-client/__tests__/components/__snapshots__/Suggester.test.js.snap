@@ -5,7 +5,7 @@ exports[`<Suggester /> the proper component renders the component with data 1`] 
   className="wrapper"
 >
   <Autosuggest
-    alwaysRenderSuggestions={false}
+    alwaysRenderSuggestions={true}
     focusInputOnSuggestionClick={true}
     getSuggestionValue={[Function]}
     highlightFirstSuggestion={false}

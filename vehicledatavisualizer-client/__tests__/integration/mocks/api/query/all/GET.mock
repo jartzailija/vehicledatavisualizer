@@ -1,0 +1,5 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Origin: "*"
+
+{"carBrands":[{"name":"Toyota","count":410713},{"name":"Ford","count":237661},{"name":"Volvo","count":223506},{"name":"Mercedes-Benz","count":197251}],"count":1434717}
