@@ -40,7 +40,7 @@
     ],
     "testPathIgnorePatterns": [
       "./__tests__/setup/",
-      "./__tests__/utils/shallowWithStore.js"
+      "./__tests__/utils/shallowWithStore.js",
     ]
   },
   "browserslist": [
