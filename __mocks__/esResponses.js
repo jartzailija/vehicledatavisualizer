@@ -186,7 +186,7 @@ const getSummaryWithCarBrandAndMunicipalityResult = { count: 5025,
     motorSize: 1696,
     mileage: 198469,
     power: 83,
-    age: 14.8
+    age: 14.9
 };
 
 module.exports = {
